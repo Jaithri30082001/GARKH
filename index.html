@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- head -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Bayon&display=swap");
+    </style>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+    </style>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+    </style>
+
+    <!-- materialize -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+      integrity="sha512-UJfAaOlIRtdR+0P6C3KUoTDAxVTuy3lnSXLyLKlHYJlcSU8Juge/mjeaxDNMlw9LgeIotgz5FP8eUQPhX1q10A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- chatbot files -->
+    
+    <!-- <link rel="stylesheet" href="/chatbot.css"> -->
+    <script defer src="/chatbot.js"></script>
+    <link rel="preload" as="document" href="/chatbot">
+    <script defer src="chatbot_toggler.js"></script>
+    
+    <title>G-ARKH</title>
+  </head>
+
+  <!-- body -->
+  <body>
+    <!-- header -->
+    <!-- chatbot frame -->
+    <div class="iframeContainer"><iframe src="/chatbot" frameBorder=0></iframe></div>
+     <!-- <img src="/images/chatbot.png" alt="Chatbot Icon" id="chatbot-icon" />  -->
+    <div class="header-custom">
+      <div class="logo-custom"><a href="../index.html">G-ARKH</a></div>
+
+      <div class="navbar-custom">
+        <a href="index.html">Home</a>
+        <a href="/about">About</a>
+        <a href="/resources">Resources</a>
+        <a href="/placements">Placements</a>
+        <a href="/higher_studies">Higher Studies</a>
+        <a href="/faculty">Faculty</a>
+        <!-- <a href="/events/events.html">Events</a> -->
+        <!-- <button id="search-custom">
+          <img src="images/search.png" />
+        </button> -->
+      </div>
+    </div>
+    <!-- hero section -->
+    <div class="hero-custom">
+      <div class="slides-custom">
+        <img src="images/campus-life_01.png" id="hero_1" />
+      </div>
+      <div class="welcome-custom">
+        <p id="heading1-custom">WELCOME TO G-ARKH</p>
+        <p id="heading2-custom">
+          YOUR GUIDE FOR ALL ACADEMIC AND NON - ACADEMIC ACTIVITIES
+        </p>
+      </div>
+      <!-- <a href="#about-section" class="about-button1-custom">Learn More</a> -->
+    </div>
+
+    <!-- divider -->
+    <div class="divider-custom">
+      <p class="quote-custom">
+        Education is the most powerful weapon which you can use to change the
+        world. - Nelson Mandela
+      </p>
+    </div>
+
+    <!-- about section // home page-->
+    <div class="about-custom" id="about-section">
+      <div class="about-image-custom"><img src="images/about-1.png" /></div>
+      <div class="about-description-custom">
+        <h2>DISCOVER G-ARKH</h2>
+        <h4>G-ARKH is your pathway to knowledge and success.</h4>
+        <p>
+          Explore, learn, grow, and unlock your potential with us. Our mission
+          is to provide high-quality education and empower the leaders of
+          tomorrow. Join us on a journey of knowledge and exploration.
+        </p>
+        <br />
+        <a href="/about" class="about-button2-custom">Learn More</a>
+      </div>
+    </div>
+    <br />
+
+    <!-- Skewed header divider -->
+    <div class="divider1-custom"></div>
+    <!-- Resources section (next content) -->
+
+    <!-- resources section-->
+    <div class="resources-custom" id="resources-section">
+      <div class="content-custom">
+        <h1>RESOURCES</h1>
+        <h3>
+          Explore a world of knowledge with our resources. From higher studies
+          to career placements and expert faculty, we're your gateway to
+          academic and professional success.
+        </h3>
+        <a href="/resources" class="about-button3-custom">Learn More</a>
+      </div>
+
+      <div class="carousel">
+        <div class="carousel-item" id="data-structures">
+          <h3>Data Structures</h3>
+          <h5>
+            Develop essential skills that are valuable across various fields, such as problem-solving, communication, and time management, to excel in your academic and professional endeavors.
+          </h5>
+          
+        </div>
+        <div class="carousel-item" id="frontend-development">
+          <h3>Frontend Development</h3>
+          <h5>
+            Dive into the world of frontend web development. Learn how to create interactive and user-friendly websites using HTML, CSS, and JavaScript.
+          </h5>
+          
+        </div>
+        <div class="carousel-item" id="backend-development">
+          <h3>Backend Development</h3>
+          <h5>
+            Explore the backend of web applications. Delve into server-side programming and databases to make websites dynamic and data-driven.
+          </h5>
+          
+        </div>
+        <div class="carousel-item" id="programming-languages">
+          <h3>Programming Languages</h3>
+          <h5>
+            Master the art of coding by learning various programming languages such as Python, Java, C++, and more. Acquire skills to build software and applications.
+          </h5>
+          
+        </div>
+        <div class="carousel-item" id="specializations">
+          <h3>Specializations</h3>
+          <h5>
+            Explore specialized fields within your domain, such as machine learning, data science, cybersecurity, and more. Gain expertise in your area of interest.
+          </h5>
+          
+        </div>
+        <div class="carousel-item" id="others">
+          <h3>Other Resources</h3>
+          <h5>
+            Discover a wide range of additional resources, including online courses, tutorials, and tools that can aid your academic and professional growth.
+          </h5>
+          
+        </div>
+      </div>
+    </div>
+
+    <!-- divider -->
+    <div class="divider1-custom"></div>
+
+    <!-- placements section -->
+    <section class="placements-section" id="placements-section">
+      <div class="placements-heading">
+        <h2>PLACEMENTS</h2>
+        <p>Connecting You with Exciting Career Opportunities</p>
+      </div>
+
+      <div class="placement-slider-custom">
+        <div class="placement-slide-track">
+          <!-- one -->
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/absyz.png" alt="Company Logo 1" />
+              <h3>Absyz</h3>
+              <p>Position: Software Engineer</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/accenture.png" alt="Company Logo 2" />
+              <h3>Accenture</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="sldie-content">
+              <img src="images/alstom.png" alt="Company Logo 2" />
+              <h3>Alstom</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/deloitte.jpeg" alt="Company Logo 2" />
+              <h3>Deloitte</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img
+                src="images/micron.png"
+                alt="Company Logo 2"
+              />
+              <h3>Accenture</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/tejas.png" alt="Company Logo 2" />
+              <h3>Tejas Networking</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <!-- two -->
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/absyz.png" alt="Company Logo 1" />
+              <h3>Absyz</h3>
+              <p>Position: Software Engineer</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/accenture.png" alt="Company Logo 2" />
+              <h3>Accenture</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/alstom.png" alt="Company Logo 2" />
+              <h3>Alstom</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/deloitte.jpeg" alt="Company Logo 2" />
+              <h3>Deloitte</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img
+                src="images/micron.png"
+                alt="Company Logo 2"
+              />
+              <h3>Accenture</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+
+          <div class="placement-slide-item">
+            <div class="slide-content">
+              <img src="images/tejas.png" alt="Company Logo 2" />
+              <h3>Tejas Networking</h3>
+              <p>Position: Data Analyst</p>
+              <p>Location: City, Country</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br></br>
+      <a href="/placements " class="about-button3-custom">Learn More</a>
+    </section>
+
+ <!-- divider -->
+ <div class="divider1-custom"></div>
+
+    <!-- Higher Studies section -->
+<section class="higher-studies-section" id="higher-studies-section">
+  <div class="higher-studies-heading">
+    <h2>HIGHER STUDIES</h2>
+    <h4>Unlock Opportunities for Advanced Education</h4>
+  </div>
+
+  <div class="higher-studies-content">
+    <div class="higher-studies-description">
+      <h5>
+        Pursuing higher studies can open doors to advanced education and research. Whether you're interested in postgraduate programs, research opportunities, or specialized courses, we provide guidance and resources to help you achieve your academic goals.
+      </h5>
+    </div>
+
+<!-- Exam 1: GRE -->
+    <div class="carousel exam">
+      <div class="carousel-item exam">
+        <h3>GRE</h3>
+        <h4>Graduate Record Examination</h4>
+    <h6>The GRE is a standardized test used for admissions to graduate and business schools worldwide. It assesses verbal, quantitative, and analytical writing skills.</h6>
+      </div>
+
+      <!-- EXAM 2: GMAT -->
+      <div class="carousel-item exam">
+        <h3>GMAT</h3>
+        <h4>Graduate Management Admission Test</h4>
+        <h6>The GMAT is a test required for admission to most business schools. It measures skills in integrated reasoning, quantitative, verbal, and analytical writing.</h6>
+      </div>
+    
+      <!-- Exam 5: TOEFL -->
+      <div class="carousel-item exam">
+      <h3>TOEFL</h3> 
+      <h4>Test of English as a Foreign Language</h4>
+    <h6>TOEFL measures the English language proficiency of non-native English speakers. It's often required for admission to English-speaking universities.</h6> 
+  </div>
+
+  <!-- Exam 4: IELTS -->
+  <div class="carousel-item exam">
+    <h3>IELTS</h3>
+    <h4>International English Language Testing System</h4>
+    <h6>IELTS is a widely accepted English language test. It assesses the language ability of candidates who need to study or work in an environment where English is used.</h6>
+  </div>
+
+  <!-- Exam 5: GRE Subject Tests
+  <div class="carousel-item exam">
+    <h3>GRE Subject Tests</h3>
+    
+    <h5>GRE Subject Tests assess your knowledge in a particular field of study. These tests may be required for specific graduate programs.</h5>
+  </div> -->
+
+  <!-- Exam 6: LSAT (Law School Admission Test) -->
+  <!-- <div class="carousel-item exam">
+    <h3>LSAT</h3>
+    <h4>Law School Admission Tes</h4>
+    <h6>LSAT is a standardized test used for admissions to law schools. It assesses reading comprehension, logical reasoning, and critical thinking skills.</h6>
+  </div> -->
+
+  <!-- Exam 7: MCAT (Medical College Admission Test) -->
+  <!-- <div class="carousel-item exam">
+    <h3>MCAT</h3>
+    <h4>Medical College Admission Test</h4>
+    <h6>MCAT is a standardized test for medical school admissions. It assesses problem-solving, critical thinking, and knowledge of natural, behavioral, and social science concepts and principles.</h6>
+  </div> -->
+
+  <!-- Exam 8: DAT (Dental Admission Test) -->
+  <!-- <div class="carousel-item exam">
+    <h3>DAT</h3>
+    <h4>Dental Admission Test</h4>
+    <h6>DAT is a test for admission to dental schools. It evaluates general academic ability, comprehension of scientific information, and perceptual ability.</h6>
+  </div> -->
+
+  <!-- Exam 9: GRE Biology Test -->
+  <div class="carousel-item exam">
+    <h3>GRE Biology Test</h3>
+    <h6>GRE Biology Test is a subject test specifically for biology. It's required or recommended by some graduate programs in biological sciences.</h6>
+  </div>
+
+  <!-- Exam 10: PCAT (Pharmacy College Admission Test) -->
+  <!-- <div class="carousel-item exam">
+    <h3>PCAT</h3>
+    <h4>Pharmacy College Admission Test</h4>
+    <h6>PCAT is required for admission to pharmacy schools. It assesses knowledge in areas such as biology, chemistry, and more.</h6>
+  </div> -->
+
+  <!-- Exam 11: OAT (Optometry Admission Test) -->
+  <!-- <div class="carousel-item exam">
+    <h3>OAT</h3>
+    <h4>Optometry Admission Test</h4>
+    <h6>OAT is a test for admission to optometry schools. It evaluates the ability to understand and use information from various sources, including scientific and quantitative reasoning.</h6>
+  </div> -->
+
+  <div class="higher-studies-cta">
+    <a href="/higher_studies" class="about-button3-custom">Learn More</a>
+  </div>
+    </div>
+    
+    </div>
+
+  </div>
+
+</section>
+<!-- divider -->
+<div class="divider1-custom"></div>
+
+<!-- footer section -->
+
+    <footer class="footer-custom">
+      <div class="footer-logo">
+        <a href="#">G-ARKH</a>
+      </div>
+      <div class="footer-links">
+        <a href="/index.html"</a>
+        <a href="/about">About</a>
+        <a href="/resources">Resources</a>
+        <a href="/placements">Placements</a>
+        <a href="/faculty">Faculty</a>
+        <a href="/higher_studies">Higher Studies</a>
+        <!-- <a href="/events">Events</a> -->
+      </div>
+      <div class="footer-contact">
+        <p>Contact Us:</p>
+        <p>Email: info@g-arkh.com</p>
+        <p>Phone: +1 (123) 456-7890</p>
+      </div>
+    </footer>
+
+    <script defer src="script.js"></script>
+    <script defer src="scroll.js"></script>
+    
+
+    <!-- materialize -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $(".carousel").carousel({
+          indicator: true,
+        });
+      });
+    </script>
+
+<script>
+  $(document).ready(function () {
+    $(".carousel").carousel({
+      indicator: true,
+    });
+  });
+</script>
+
+  </body>
+</html>

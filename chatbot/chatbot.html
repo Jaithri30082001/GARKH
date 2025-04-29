@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" style="border: none">
+  <!-- head -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Bayon&display=swap");
+    </style>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+    </style>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+    </style>
+
+    <!-- materialize -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+      integrity="sha512-UJfAaOlIRtdR+0P6C3KUoTDAxVTuy3lnSXLyLKlHYJlcSU8Juge/mjeaxDNMlw9LgeIotgz5FP8eUQPhX1q10A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link rel="stylesheet" href="chatbot.css" />
+    <script type="module" defer src="chatbot.js"></script>
+
+    <!-- SCRIPT WHEN TYPE = MODULE -->
+    <!-- <script defer type="module" src="chatbot.js"></script> -->
+    <!-- <script defer src="chatbot_toggler.js"></script> -->
+
+    <title>G-ARKH</title>
+  </head>
+
+  <body>
+    <button class="chatbot-toggler">
+      <span class="chatbot-icon">
+        <img src="images/chatbot.png" alt="Chatbot Icon" id="chatbot-icon"
+      /></span>
+      <span class="close-button"><img src="/images/close.png" alt="" /></span>
+    </button>
+
+    <div class="chatbot">
+      <header>
+        <h2>Chatbot</h2>
+        <span class="close-button"><img src="/images/close.png" alt="" /></span>
+      </header>
+      <ul class="chatbox-custom">
+        <li class="chat incoming">
+          <p>hi there!<br />how can I help you today?</p>
+        </li>
+        <!-- <li class="chat outgoing">
+          <p>Lorem, ipsum dolor sit amet consectetur.</p>
+        </li> -->
+      </ul>
+      <div class="chat-input">
+        <textarea placeholder="try asking something..." required></textarea>
+        <span id="send-btn" class="arrow"
+          ><img src="../images/arrow.png" alt=""
+        /></span>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,30 @@
+{
+  "name": "garkh",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js",
+    "start-faculty": "nodemon faculty/faculty.js",
+    "start-resources": "nodemon resources/resources.js",
+    "start-placements": "nodemon placements/placements.js",
+    "start-higher-studies": "nodemon higher_studies/higher_studies.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build"
+  },
+  "author": "Jaithri Manogyna Kallakuri",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "slugify": "^1.6.6",
+    "url": "^0.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "keywords": []
+}

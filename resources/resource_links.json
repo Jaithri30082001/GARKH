@@ -1,0 +1,1635 @@
+[
+  {
+    "domain_number": 1,
+    "domain_id": "languages",
+    "domain_name": "Programming Languages",
+    "sub_domains": [
+      {
+        "sub_domain_id": "c",
+        "sub_domain_name": "C",
+        "links": [
+          {
+            "link_id": "c-l1",
+            "link_name": "W3 Schools",
+            "link": "https://www.w3schools.com/c/"
+          },
+          {
+            "link_id": "c-l2",
+            "link_name": "Tutorials Point",
+            "link": "https://www.tutorialspoint.com/cprogramming/index.htm"
+          },
+          {
+            "link_id": "c-l3",
+            "link_name": "C programming Tutorial for beginners",
+            "link": "https://www.youtube.com/watch?v=KJgsSFOSQv0"
+          },
+          {
+            "link_id": "c-l4",
+            "link_name": "Learn C programming with Dr.Chuck",
+            "link": "https://www.youtube.com/watch?v=j-_s8f5K30I"
+          },
+          {
+            "link_id": "c-l5",
+            "link_name": "C programming full course",
+            "link": "https://youtu.be/87SH2Cn0s9A"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "C++",
+        "sub_domain_name": "C++",
+        "links": [
+          {
+            "link_id": "c++l1",
+            "link_name": "Learn CPP",
+            "link": "https://learncpp.com/"
+          },
+          {
+            "link_id": "c++l2",
+            "link_name": "C++ Reference",
+            "link": "https://en.cppreference.com/"
+          },
+          {
+            "link_id": "c++l3",
+            "link_name": "C++ Tutorials Point",
+            "link": "https://www.tutorialspoint.com/cplusplus/index.htm"
+          },
+          {
+            "link_id": "c++l4",
+            "link_name": "W3 Schools C++",
+            "link": "https://www.w3schools.com/cpp/default.asp"
+          },
+          {
+            "link_id": "c++l5",
+            "link_name": "C++ Roadmap",
+            "link": "https://roadmap.sh/cpp"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "java",
+        "sub_domain_name": "JAVA",
+        "links": [
+          {
+            "link_id": "java-l1",
+            "link_name": "Java Road map",
+            "link": "https://roadmap.sh/java"
+          },
+          {
+            "link_id": "java-l2",
+            "link_name": "Java website",
+            "link": "https://www.java.com/"
+          },
+          {
+            "link_id": "java-l3",
+            "link_name": "Code academy - free java course",
+            "link": "https://www.codecademy.com/learn/learn-java"
+          },
+          {
+            "link_id": "java-l4",
+            "link_name": "W3 Schools Java",
+            "link": "https://www.w3schools.com/java/"
+          },
+          {
+            "link_id": "java-l5",
+            "link_name": "java crash course",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "python",
+        "sub_domain_name": "Python",
+        "links": [
+          {
+            "link_id": "python-l1",
+            "link_name": "Python website",
+            "link": "https://www.python.org/"
+          },
+          {
+            "link_id": "python-l2",
+            "link_name": "Python Roadmap",
+            "link": "https://roadmap.sh/python"
+          },
+          {
+            "link_id": "python-l3",
+            "link_name": "Getting started with Python",
+            "link": "https://www.python.org/about/gettingstarted/"
+          },
+          {
+            "link_id": "python-l4",
+            "link_name": "Automating boring stuff with Python",
+            "link": "https://automatetheboringstuff.com/"
+          },
+          {
+            "link_id": "python-l5",
+            "link_name": "Free code camp - how to learn python?",
+            "link": "https://www.freecodecamp.org/news/how-to-learn-python/"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "go",
+        "sub_domain_name": "GO",
+        "links": [
+          {
+            "link_id": "go-l1",
+            "link_name": "Go Roadmap",
+            "link": "https://roadmap.sh/golang"
+          },
+          {
+            "link_id": "go-l2",
+            "link_name": "A tour of Go - Go basics",
+            "link": "https://go.dev/tour/welcome/1"
+          },
+          {
+            "link_id": "go-l3",
+            "link_name": "GO lang documentation",
+            "link": "https://go.dev/doc/"
+          },
+          {
+            "link_id": "go-l4",
+            "link_name": "Annotated example programs",
+            "link": "https://gobyexample.com/"
+          },
+          {
+            "link_id": "go-l5",
+            "link_name": "Learn Go by code academy",
+            "link": "https://www.codecademy.com/learn/learn-go"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "c#",
+        "sub_domain_name": "C#",
+        "links": [
+          {
+            "link_id": "cs-l1",
+            "link_name": "Learning Path C#",
+            "link": "https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/?WT.mc_id=dotnet-35129-website"
+          },
+          {
+            "link_id": "cs-l2",
+            "link_name": "W3 Schools C#",
+            "link": "https://www.w3schools.com/cs/index.php"
+          },
+          {
+            "link_id": "cs-l3",
+            "link_name": "introduction to C#",
+            "link": "https://docs.microsoft.com/en-us/shows/CSharp-101/?WT.mc_id=Educationalcsharp-c9-scottha"
+          },
+          {
+            "link_id": "cs-l4",
+            "link_name": "tutorials for C#",
+            "link": "https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "rust",
+        "sub_domain_name": "Rust",
+        "links": [
+          {
+            "link_id": "rust-l1",
+            "link_name": "Rust Programming language - online book",
+            "link": "https://doc.rust-lang.org/book/"
+          },
+          {
+            "link_id": "rust-l2",
+            "link_name": "Rust by example",
+            "link": "https://doc.rust-lang.org/stable/rust-by-example/index.html"
+          },
+          {
+            "link_id": "rust-l3",
+            "link_name": "Rust vs Go",
+            "link": "https://thenewstack.io/rust-vs-go-why-theyre-better-together/"
+          },
+          {
+            "link_id": "rust-l4",
+            "link_name": "Rust by numbers",
+            "link": "https://thenewstack.io/rust-by-the-numbers-the-rust-programming-language-in-2021/"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "domain_number": 2,
+    "domain_id": "data_structures",
+    "domain_name": "Data Structures",
+    "sub_domains": [
+      {
+        "sub_domain_id": "arrays",
+        "sub_domain_name": "Arrays",
+        "links": [
+          {
+            "link_id": "array-l1",
+            "link_name": "Array Data Structures",
+            "link": "https://www.youtube.com/watch?v=QJNwK2uJyGs"
+          },
+          {
+            "link_id": "array-l2",
+            "link_name": "Array Data Structures - Coursera",
+            "link": "https://www.coursera.org/lecture/data-structures/arrays-OsBSF"
+          },
+          {
+            "link_id": "array-l3",
+            "link_name": "Linear and Multi-dimensional arrays",
+            "link": "https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE"
+          },
+          {
+            "link_id": "array-l4",
+            "link_name": "dynamic arrays - Coursera",
+            "link": "https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV"
+          },
+          {
+            "link_id": "array-l5",
+            "link_name": "Jagged arrays",
+            "link": "https://www.youtube.com/watch?v=1jtrQqYpt7g"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "linked_lists",
+        "sub_domain_name": "Linked Lists",
+        "links": [
+          {
+            "link_id": "ll-l1",
+            "link_name": "Linked List data structures",
+            "link": "https://www.youtube.com/watch?v=odW9FU8jPRQ"
+          },
+          {
+            "link_id": "ll-l2",
+            "link_name": "Singly Linked Lists",
+            "link": "https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK"
+          },
+          {
+            "link_id": "ll-l3",
+            "link_name": "data structures optimizing performance",
+            "link": "https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9"
+          },
+          {
+            "link_id": "ll-l4",
+            "link_name": "why should you avoid linked lists",
+            "link": "https://www.youtube.com/watch?v=YQs6IC-vgmo"
+          },
+          {
+            "link_id": "ll-l5",
+            "link_name": "Doubly linked lists",
+            "link": "https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "stack",
+        "sub_domain_name": "Stack",
+        "links": [
+          {
+            "link_id": "stack-l1",
+            "link_name": "Stack Data Structure",
+            "link": "https://www.youtube.com/watch?v=I5lq6sCuABE"
+          },
+          {
+            "link_id": "stack-l2",
+            "link_name": "Stack Data Structure in 3 minutes",
+            "link": "https://www.youtube.com/watch?v=KcT3aVgrrpU"
+          },
+          {
+            "link_id": "stack-l2",
+            "link_name": "Stack Data Structure - II",
+            "link": "https://www.coursera.org/lecture/data-structures/stacks-UdKzQ"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "queue",
+        "sub_domain_name": "Queue",
+        "links": [
+          {
+            "link_id": "queue-l1",
+            "link_name": "Queue data structure",
+            "link": "https://www.youtube.com/watch?v=mDCi1lXd9hc"
+          },
+          {
+            "link_id": "queue-l2",
+            "link_name": "Queue in 3 minutes",
+            "link": "https://www.youtube.com/watch?v=D6gu-_tmEpQ"
+          },
+          {
+            "link_id": "queue-l3",
+            "link_name": "Queue data structure - Coursera",
+            "link": "https://www.coursera.org/lecture/data-structures/queues-EShpq"
+          },
+          {
+            "link_id": "queue-l4",
+            "link_name": "Circular buffer",
+            "link": "https://en.wikipedia.org/wiki/Circular_buffer"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "hash_table",
+        "sub_domain_name": "Hash Table",
+        "links": [
+          {
+            "link_id": "hash-l1",
+            "link_name": "Hash Table - Illustrated Data Structure",
+            "link": "https://www.youtube.com/watch?v=jalSiaIi8j4"
+          },
+          {
+            "link_id": "hash-l2",
+            "link_name": "Hashing with chaining",
+            "link": "https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9"
+          },
+          {
+            "link_id": "hash-l3",
+            "link_name": "Table doubling, Karp-Rabin",
+            "link": "https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=10"
+          },
+          {
+            "link_id": "hash-l4",
+            "link_name": "Open addressing and cryptographic hashing",
+            "link": "https://www.youtube.com/watch?v=rvdJDijO2Ro&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=11"
+          },
+          {
+            "link_id": "hash-l5",
+            "link_name": "Perfect hashing",
+            "link": "https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4"
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "trees",
+        "sub_domain_name": "Trees",
+        "links": [
+          {
+            "link_id": "tree-l1",
+            "link_name": "Tree Data structure - GFG",
+            "link": "https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/"
+          },
+          {
+            "link_id": "tree-l2",
+            "link_name": "Trees - Illustrated Data structure",
+            "link": "https://www.youtube.com/watch?v=S2W3SXGPVyU"
+          },
+          {
+            "link_id": "tree-l2",
+            "link_name": "Trees - Illustrated Data structure",
+            "link": "https://www.youtube.com/watch?v=S2W3SXGPVyU"
+          }
+        ],
+        "topics": [
+          {
+            "topic_id": "binary-tree",
+            "topic_name": "Binary Tree",
+            "links": [
+              {
+                "link_id": "bt-l1",
+                "link_name": "Binary Trees - part 1",
+                "link": "https://www.youtube.com/watch?v=76dhtgZt38A&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=9"
+              },
+              {
+                "link_id": "bt-l2",
+                "link_name": "Binary Trees - part 2",
+                "link": "https://www.youtube.com/watch?v=U1JYwHcFfso&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=10"
+              }
+            ]
+          },
+          {
+            "topic_id": "binary-search-tree",
+            "topic_name": "Binary Search Tree",
+            "links": [
+              {
+                "link_id": "bst-l1",
+                "link_name": "Binary Search Tree - Coursera",
+                "link": "https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction"
+              },
+              {
+                "link_id": "bst-l2",
+                "link_name": "BST implementation - memory allocation in stack and heap",
+                "link": "https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=30"
+              },
+              {
+                "link_id": "bst-l3",
+                "link_name": "Find Min and Max Element in Binary Search Tree",
+                "link": "https://www.youtube.com/watch?v=Ut90klNN264&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=31"
+              },
+              {
+                "link_id": "bst-l4",
+                "link_name": "Check if Given Tree is Binary Search Tree or Not",
+                "link": "https://www.youtube.com/watch?v=yEwSGhSsT0U&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36"
+              },
+              {
+                "link_id": "bst-l5",
+                "link_name": "Binary Search Tree Implementation in C++",
+                "link": "https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29"
+              }
+            ]
+          },
+          {
+            "topic_id": "full-binary-tree",
+            "topic_name": "Full Binary Tree",
+            "links": [
+              {
+                "link_id": "fbt-l1",
+                "link_name": "Full Binary Tree",
+                "link": "https://www.programiz.com/dsa/full-binary-tree"
+              },
+              {
+                "link_id": "fbt-l2",
+                "link_name": "Types of Binary Tree",
+                "link": "https://www.geeksforgeeks.org/types-of-binary-tree/"
+              }
+            ]
+          },
+          {
+            "topic_id": "complete-binary-tree",
+            "topic_name": "Complete Binary Tree",
+            "links": [
+              {
+                "link_id": "cbt-l1",
+                "link_name": "Complete Binary Tree - Geeks for Geeks",
+                "link": "https://www.geeksforgeeks.org/complete-binary-tree"
+              },
+              {
+                "link_id": "cbt-l2",
+                "link_name": "Complete Binary Tree - Programiz",
+                "link": "https://www.programiz.com/dsa/complete-binary-tree"
+              }
+            ]
+          },
+          {
+            "topic_id": "balanced-binary-tree",
+            "topic_name": "Balanced Binary Tree",
+            "links": [
+              {
+                "link_id": "bbt-l1",
+                "link_name": "Balanced Binary Tree",
+                "link": "https://www.programiz.com/dsa/balanced-binary-tree"
+              }
+            ]
+          },
+          {
+            "topic_id": "pre-order-traversal",
+            "topic_name": "Pre-order traversal",
+            "links": [
+              {
+                "link_id": "pot-l1",
+                "link_name": "Tree | Illustrated Data Structures",
+                "link": "https://www.youtube.com/watch?v=S2W3SXGPVyU"
+              },
+              {
+                "link_id": "pot-l2",
+                "link_name": "Tree Traversals (Inorder, Preorder and Postorder)",
+                "link": "https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/"
+              }
+            ]
+          },
+          {
+            "topic_id": "traversals",
+            "topic_name": "traversals",
+            "links": [
+              {
+                "link_id": "t-l1",
+                "link_name": "Tree | Illustrated Data Structures",
+                "link": "https://www.youtube.com/watch?v=S2W3SXGPVyU"
+              },
+              {
+                "link_id": "t-l2",
+                "link_name": "Tree Traversals (Inorder, Preorder and Postorder)",
+                "link": "https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/"
+              }
+            ]
+          },
+          {
+            "topic_id": "breadth-first-search",
+            "topic_name": "Breadth first search",
+            "links": [
+              {
+                "link_id": "bfs-l1",
+                "link_name": "BFS and DFS in a Binary Tree",
+                "link": "https://www.youtube.com/watch?v=uWL6FJhq5fM"
+              },
+              {
+                "link_id": "bfs-l2",
+                "link_name": "Breadth-First Search (BFS) and Depth-First Search (DFS) for Binary Trees in Java",
+                "link": "https://www.digitalocean.com/community/tutorials/breadth-first-search-depth-first-search-bfs-dfs"
+              },
+              {
+                "link_id": "bfs-l3",
+                "link_name": "Breadth-first search in 4 minutes",
+                "link": "https://www.youtube.com/watch?v=HZ5YTanv5QE"
+              }
+            ]
+          },
+          {
+            "topic_id": "depth-first-search",
+            "topic_name": "Depth first search",
+            "links": [
+              {
+                "link_id": "dfs-l1",
+                "link_name": "BFS and DFS in a Binary Tree",
+                "link": "https://www.youtube.com/watch?v=uWL6FJhq5fM"
+              },
+              {
+                "link_id": "dfs-l2",
+                "link_name": "Breadth-First Search (BFS) and Depth-First Search (DFS) for Binary Trees in Java",
+                "link": "https://www.digitalocean.com/community/tutorials/breadth-first-search-depth-first-search-bfs-dfs"
+              },
+              {
+                "link_id": "dfs-l3",
+                "link_name": "Depth First Search in 4 Minutes",
+                "link": "https://www.youtube.com/watch?v=Urx87-NMm6c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "graphs",
+        "sub_domain_name": "Graphs",
+        "links": [
+          {
+            "link_id": "graph-l1",
+            "link_name": "Graph Data Structure",
+            "link": "https://www.simplilearn.com/tutorials/data-structure-tutorial/graphs-in-data-structure"
+          },
+          {
+            "link_id": "graph-l2",
+            "link_name": "Graph Data Structure | Illustrated Data Structures",
+            "link": "https://www.youtube.com/watch?v=0sQE8zKhad0"
+          },
+          {
+            "link_id": "graph-l3",
+            "link_name": "CSE373 2020 - Lecture 10 - Graph Data Structures",
+            "link": "https://www.youtube.com/watch?v=Sjk0xqWWPCc&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=10"
+          },
+          {
+            "link_id": "graph-l4",
+            "link_name": "CSE373 2020 - Lecture 11 - Graph Traversal",
+            "link": "https://www.youtube.com/watch?v=ZTwjXj81NVY&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=11"
+          },
+          {
+            "link_id": "graph-l5",
+            "link_name": "CSE373 2020 - Lecture 12 - Depth First Search",
+            "link": "https://www.youtube.com/watch?v=KyordYB3BOs&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=12"
+          }
+        ],
+        "topics": [
+          {
+            "topic_id": "directed-graph",
+            "topic_name": "Directed graph",
+            "links": [
+              {
+                "link_id": "dg-l1",
+                "link_name": "Directed Graph",
+                "link": "https://en.wikipedia.org/wiki/Directed_graph"
+              }
+            ]
+          },
+          {
+            "topic_id": "undirected-graph",
+            "topic_name": "Undirected graph",
+            "links": [
+              {
+                "link_id": "udg-l1",
+                "link_name": "Undirected Graph",
+                "link": "https://mathinsight.org/definition/undirected_graph"
+              }
+            ]
+          },
+          {
+            "topic_id": "spanning-tree",
+            "topic_name": "Spanning tree",
+            "links": [
+              {
+                "link_id": "st-l1",
+                "link_name": "Spanning Tree",
+                "link": "https://www.tutorialspoint.com/data_structures_algorithms/spanning_tree.htm"
+              },
+              {
+                "link_id": "st-l2",
+                "link_name": "CSE373 2020 - Lecture 13 - Minimum Spanning Trees",
+                "link": "https://www.youtube.com/watch?v=oolm2VnJUKw&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=13"
+              },
+              {
+                "link_id": "st-l3",
+                "link_name": "CSE373 2020 - Lecture 14 - Minimum Spanning Trees (cont)",
+                "link": "https://www.youtube.com/watch?v=RktgPx0MarY&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=14"
+              },
+              {
+                "link_id": "st-l4",
+                "link_name": "Greedy Algorithms: Minimum Spanning Tree",
+                "link": "https://www.youtube.com/watch?v=tKwnms5iRBU&index=16&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp"
+              }
+            ]
+          },
+          {
+            "topic_id": "graph-representation",
+            "topic_name": "Graph Representation",
+            "links": [
+              {
+                "link_id": "gr-l1",
+                "link_name": "Adjacency Matrix - Graph Representation",
+                "link": "https://www.programiz.com/dsa/graph-adjacency-matrix"
+              },
+              {
+                "link_id": "gr-l2",
+                "link_name": "Adjacency List - Graph Representation",
+                "link": "https://www.programiz.com/dsa/graph-adjacency-list"
+              }
+            ]
+          },
+          {
+            "topic_id": "breadth-first-search-graphs",
+            "topic_name": "Breadth First Search",
+            "links": [
+              {
+                "link_id": "bfsg-l1",
+                "link_name": "Breadth First Search or BFS for a Graph",
+                "link": "https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/"
+              },
+              {
+                "link_id": "bfsg-l2",
+                "link_name": "Graph Algorithms II - DFS, BFS, Kruskals Algorithm, Union Find Data Structure - Lecture 7",
+                "link": "https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7"
+              },
+              {
+                "link_id": "bfsg-l3",
+                "link_name": "Breadth-first search in 4 minutes",
+                "link": "https://www.youtube.com/watch?v=hz5ytanv5qe"
+              }
+            ]
+          },
+          {
+            "topic_id": "depth-first-search-graphs",
+            "topic_name": "Depth First Search",
+            "links": [
+              {
+                "link_id": "dfsg-l1",
+                "link_name": "Depth First Search or DFS for a Graph",
+                "link": "https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/?ref=lbp"
+              }
+            ]
+          },
+          {
+            "topic_id": "bellman-fords-algorithm",
+            "topic_name": "Bellman fords algorithm",
+            "links": [
+              {
+                "link_id": "bfa-l1",
+                "link_name": "Bellman-Ford - MIT",
+                "link": "https://www.youtube.com/watch?v=f9cVS_URPc0&ab_channel=MITOpenCourseWare"
+              }
+            ]
+          },
+          {
+            "topic_id": "dijkstras-algorithm",
+            "topic_name": "Dijkstras algorithm",
+            "links": [
+              {
+                "link_id": "da-l1",
+                "link_name": "Dijkstras Algorithm - MIT",
+                "link": "https://www.youtube.com/watch?v=NSHizBK9JD8&t=1731s&ab_channel=MITOpenCourseWare"
+              }
+            ]
+          },
+          {
+            "topic_id": "A*-Algorithm-algorithm",
+            "topic_name": "A* Algorithm algorithm",
+            "links": [
+              {
+                "link_id": "aaa-l1",
+                "link_name": "A* Search Algorithm - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/A*_search_algorithm"
+              },
+              {
+                "link_id": "aaa-l2",
+                "link_name": "A* Pathfinding (E01: algorithm explanation)",
+                "link": "https://www.youtube.com/watch?v=-L-WgKMFuhE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "greedy-algorithms",
+        "sub_domain_name": "Greedy Algorithm",
+        "topics": [
+          {
+            "topic_id": "dijkstras-algorithm-g",
+            "topic_name": "Dijkstras algorithm",
+            "links": [
+              {
+                "link_id": "dag-l1",
+                "link_name": "Dijkstras Algorithm in 3 Minutes",
+                "link": "https://www.youtube.com/watch?v=_lHSawdgXpI"
+              },
+              {
+                "link_id": "dag-l2",
+                "link_name": "Dijkstras Algorithm - MIT",
+                "link": "https://www.youtube.com/watch?v=NSHizBK9JD8&t=1731s&ab_channel=MITOpenCourseWare"
+              }
+            ]
+          },
+          {
+            "topic_id": "huffman-coding ",
+            "topic_name": "Huffman coding ",
+            "links": [
+              {
+                "link_id": "hc-l1",
+                "link_name": "Huffman Coding",
+                "link": "https://www.programiz.com/dsa/huffman-coding"
+              },
+              {
+                "link_id": "hc-l2",
+                "link_name": "Huffman Coding | Greedy Algo-3",
+                "link": "https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/"
+              },
+              {
+                "link_id": "hc-l3",
+                "link_name": "Huffman Coding - Greedy Method",
+                "link": "https://www.youtube.com/watch?v=co4_ahEDCho"
+              }
+            ]
+          },
+          {
+            "topic_id": "kruskals-algorithm",
+            "topic_name": "Kruskals algorithm",
+            "links": [
+              {
+                "link_id": "ka-l1",
+                "link_name": "Kruskals Algorithm in 2 Minutes",
+                "link": "https://www.youtube.com/watch?v=71UQH7Pr9kU"
+              },
+              {
+                "link_id": "ka-l2",
+                "link_name": "Graph Algorithms II - DFS, BFS, Kruskals Algorithm, Union Find Data Structure - Lecture 7",
+                "link": "https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=8"
+              }
+            ]
+          },
+          {
+            "topic_id": "ford-fulkerson-Algorithm",
+            "topic_name": "Ford Fulkerson Algorithm",
+            "links": [
+              {
+                "link_id": "ffa-l1",
+                "link_name": "Ford-Fulkerson in 5 minutes",
+                "link": "https://www.youtube.com/watch?v=Tl90tNtKvxs"
+              },
+              {
+                "link_id": "ffa-l2",
+                "link_name": "Ford-Fulkerson Algorithm for Maximum Flow Problem",
+                "link": "https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/"
+              },
+              {
+                "link_id": "ffa-l3",
+                "link_name": "Ford-Fulkerson Algorithm",
+                "link": "https://www.programiz.com/dsa/ford-fulkerson-algorithm"
+              }
+            ]
+          },
+          {
+            "topic_id": "prims-algorithm",
+            "topic_name": "Prim’s algorithm",
+            "links": [
+              {
+                "link_id": "pa-l1",
+                "link_name": "Graph Algorithms I - Topological Sorting, Prims Algorithm - Lecture 6",
+                "link": "https://www.youtube.com/watch?v=i_AQT_XfvD8&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7"
+              },
+              {
+                "link_id": "pa-l2",
+                "link_name": "Prim’s Minimum Spanning Tree (MST) | Greedy Algo-5",
+                "link": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/"
+              },
+              {
+                "link_id": "pa-l3",
+                "link_name": "Prims Algorithm",
+                "link": "https://www.programiz.com/dsa/prim-algorithm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "back-tracking",
+        "sub_domain_name": "Back Tracking",
+        "topics": [
+          {
+            "topic_id": "hamiltonian-path",
+            "topic_name": "Hamiltonian path",
+            "links": [
+              {
+                "link_id": "hp-l1",
+                "link_name": "Hamiltonian Path",
+                "link": "https://www.hackerearth.com/practice/algorithms/graphs/hamiltonian-path/tutorial/"
+              },
+              {
+                "link_id": "hp-l2",
+                "link_name": "Hamiltonian Cycle | Backtracking-6",
+                "link": "https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/"
+              },
+              {
+                "link_id": "hp-l3",
+                "link_name": "Hamiltonian Paths and Cycles",
+                "link": "https://medium.com/stamatics-iit-kanpur/hamiltonian-paths-and-cycles-4f233bfbc53a"
+              },
+              {
+                "link_id": "hp-l4",
+                "link_name": "Hamiltonian Paths - Lecture 7",
+                "link": "https://people.csail.mit.edu/virgi/6.s078/lecture17.pdf"
+              }
+            ]
+          },
+          {
+            "topic_id": "n-queen-problem",
+            "topic_name": "N Queen Problem",
+            "links": [
+              {
+                "link_id": "nqp-l1",
+                "link_name": "N-Queens problem using backtracking in Java/C++",
+                "link": "https://www.digitalocean.com/community/tutorials/n-queens-problem-java-c-plus-plus"
+              },
+              {
+                "link_id": "nqp-l2",
+                "link_name": "N Queen Problem | Backtracking-3",
+                "link": "https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/"
+              },
+              {
+                "link_id": "nqp-l3",
+                "link_name": "6.1 N Queens Problem using Backtracking",
+                "link": "https://www.youtube.com/watch?v=xFv_Hl4B83A"
+              }
+            ]
+          },
+          {
+            "topic_id": "maze-solving-problem",
+            "topic_name": "Maze Solving Problem",
+            "links": [
+              {
+                "link_id": "msa-l1",
+                "link_name": "Maze Solving Algorithms",
+                "link": "https://github.com/john-science/mazelib/blob/main/docs/MAZE_SOLVE_ALGOS.md"
+              },
+              {
+                "link_id": "msa-l2",
+                "link_name": "Maze Solving - Computerphile",
+                "link": "https://www.youtube.com/watch?v=rop0W4QDOUI"
+              },
+              {
+                "link_id": "msa-l3",
+                "link_name": "Python Maze Solving Tutorial (Using Recursion)",
+                "link": "https://www.youtube.com/watch?v=XP94WC_XnZc"
+              }
+            ]
+          },
+          {
+            "topic_id": "knights-tour-problem",
+            "topic_name": "Knights Tour Problem",
+            "links": [
+              {
+                "link_id": "ktp-l1",
+                "link_name": "The Knight’s tour problem | Backtracking-1",
+                "link": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/"
+              },
+              {
+                "link_id": "ktp-l2",
+                "link_name": "Knights Tour",
+                "link": "https://bradfieldcs.com/algos/graphs/knights-tour/"
+              },
+              {
+                "link_id": "ktp-l3",
+                "link_name": "Knights Tour Proble",
+                "link": "https://www.codesdope.com/course/algorithms-knights-tour-problem/"
+              },
+              {
+                "link_id": "ktp-l4",
+                "link_name": "Backtracking: The Knight’s Tour Problem",
+                "link": "https://www.codingninjas.com/codestudio/library/backtracking-the-knights-tour-problem"
+              }
+            ]
+          },
+          {
+            "topic_id": "rabin-karp-algorithm",
+            "topic_name": "Rabin-Karp algorithm",
+            "links": [
+              {
+                "link_id": "rka-l1",
+                "link_name": "Rabin Karps Algorithm",
+                "link": "https://www.coursera.org/lecture/data-structures/rabin-karps-algorithm-c0Qkw"
+              },
+              {
+                "link_id": "rka-l2",
+                "link_name": "Optimization: Precomputationr",
+                "link": "https://www.coursera.org/learn/data-structures/lecture/nYrc8/optimization-precomputation"
+              },
+              {
+                "link_id": "rka-l3",
+                "link_name": "Optimization: Implementation and Analysis",
+                "link": "https://www.coursera.org/learn/data-structures/lecture/h4ZLc/optimization-implementation-and-analysis"
+              },
+              {
+                "link_id": "rka-l4",
+                "link_name": "Lecture 9: Table Doubling, Karp-Rabin",
+                "link": "https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9"
+              },
+              {
+                "link_id": "rka-l5",
+                "link_name": "Rolling Hashes, Amortized Analysis",
+                "link": "https://www.youtube.com/watch?v=w6nuXg0BISo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=33"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "domain_id": "front-end",
+    "domain_name": "Front End Web development",
+    "domain_number": 3,
+    "sub_domains": [
+      {
+        "sub_domain_id": "internet",
+        "sub_domain_name": "Internet",
+        "topics": [
+          {
+            "topic_id": "how-does-internet-work",
+            "topic_name": "How does internet work",
+            "links": [
+              {
+                "link_id": "hdiw-l1",
+                "link_name": "How does the Internet Work?",
+                "link": "https://cs.fyi/guide/how-does-internet-work"
+              },
+              {
+                "link_id": "hdiw-l2",
+                "link_name": "How Does the Internet Work? MDN Docs",
+                "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work"
+              },
+              {
+                "link_id": "hdiw-l3",
+                "link_name": "Introduction to Internet",
+                "link": "https://roadmap.sh/guides/what-is-internet"
+              },
+              {
+                "link_id": "hdiw-l4",
+                "link_name": "How does the Internet work?",
+                "link": "https://www.youtube.com/watch?v=TNQsmPf24go"
+              },
+              {
+                "link_id": "hdiw-l5",
+                "link_name": "How the Internet Works in 5 Minutes",
+                "link": "https://www.youtube.com/watch?v=7_LPdttKXPc"
+              }
+            ]
+          },
+          {
+            "topic_id": "http",
+            "topic_name": "HTTP",
+            "links": [
+              {
+                "link_id": "http-l1",
+                "link_name": "Everything you need to know about HTTP",
+                "link": "https://cs.fyi/guide/http-in-depth"
+              },
+              {
+                "link_id": "http-l2",
+                "link_name": "What is HTTP?",
+                "link": "https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/"
+              },
+              {
+                "link_id": "http-l3",
+                "link_name": "How HTTPS Works …in a comic!",
+                "link": "https://howhttps.works/"
+              },
+              {
+                "link_id": "http-l4",
+                "link_name": "An overview of HTTP",
+                "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+              },
+              {
+                "link_id": "http-l5",
+                "link_name": "HTTP/3 From A To Z: Core Concepts",
+                "link": "https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/"
+              }
+            ]
+          },
+          {
+            "topic_id": "domain-name",
+            "topic_name": "Domain Name",
+            "links": [
+              {
+                "link_id": "dn-l1",
+                "link_name": "What is a Domain Name?",
+                "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name"
+              },
+              {
+                "link_id": "dn-l2",
+                "link_name": "What is a Domain Name? | Domain name vs. URL",
+                "link": "https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/"
+              },
+              {
+                "link_id": "dn-l3",
+                "link_name": "A Beginners Guide to How Domain Names Work",
+                "link": "https://www.youtube.com/watch?v=Y4cRx19nhJk"
+              }
+            ]
+          },
+          {
+            "topic_id": "domain-name",
+            "topic_name": "Domain Name",
+            "links": [
+              {
+                "link_id": "dn-l1",
+                "link_name": "What is a Domain Name?",
+                "link": "https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name"
+              },
+              {
+                "link_id": "dn-l2",
+                "link_name": "What is a Domain Name? | Domain name vs. URL",
+                "link": "https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/"
+              },
+              {
+                "link_id": "dn-l3",
+                "link_name": "A Beginners Guide to How Domain Names Work",
+                "link": "https://www.youtube.com/watch?v=Y4cRx19nhJk"
+              }
+            ]
+          },
+          {
+            "topic_id": "hosting",
+            "topic_name": "Hosting",
+            "links": [
+              {
+                "link_id": "h-l1",
+                "link_name": "What Is Web Hosting? Explained",
+                "link": "https://www.youtube.com/watch?v=htbY9-yggB0"
+              },
+              {
+                "link_id": "h-l2",
+                "link_name": "Different Types of Web Hosting Explained",
+                "link": "https://www.youtube.com/watch?v=AXVZYzw8geg"
+              },
+              {
+                "link_id": "h-l3",
+                "link_name": "Where to Host a Fullstack Project on a Budget",
+                "link": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q"
+              }
+            ]
+          },
+          {
+            "topic_id": "hosting",
+            "topic_name": "Hosting",
+            "links": [
+              {
+                "link_id": "h-l1",
+                "link_name": "What Is Web Hosting? Explained",
+                "link": "https://www.youtube.com/watch?v=htbY9-yggB0"
+              },
+              {
+                "link_id": "h-l2",
+                "link_name": "Different Types of Web Hosting Explained",
+                "link": "https://www.youtube.com/watch?v=AXVZYzw8geg"
+              },
+              {
+                "link_id": "h-l3",
+                "link_name": "Where to Host a Fullstack Project on a Budget",
+                "link": "https://www.youtube.com/watch?v=Kx_1NYYJS7Q"
+              }
+            ]
+          },
+          {
+            "topic_id": "dns",
+            "topic_name": "DNS",
+            "links": [
+              {
+                "link_id": "dns-l1",
+                "link_name": "What is DNS?",
+                "link": "https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/"
+              },
+              {
+                "link_id": "dns-l2",
+                "link_name": "Mess with DNS - DNS Playground",
+                "link": "https://messwithdns.net/"
+              },
+              {
+                "link_id": "dns-l3",
+                "link_name": "How DNS works (comic)",
+                "link": "https://howdns.works/"
+              },
+              {
+                "link_id": "dns-l4",
+                "link_name": "DNS and How does it Work?",
+                "link": "https://www.youtube.com/watch?v=Wj0od2ag5sk"
+              },
+              {
+                "link_id": "dns-l5",
+                "link_name": "DNS Records",
+                "link": "https://www.youtube.com/watch?v=7lxgpKh_fRY"
+              }
+            ]
+          },
+          {
+            "topic_id": "browsers",
+            "topic_name": "Browsers",
+            "links": [
+              {
+                "link_id": "browser-l1",
+                "link_name": "How Browsers Work",
+                "link": "https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/"
+              },
+              {
+                "link_id": "browser-l2",
+                "link_name": "Role of Rendering Engine in Browsers",
+                "link": "https://www.browserstack.com/guide/browser-rendering-engine"
+              },
+              {
+                "link_id": "browser-l3",
+                "link_name": "Populating the Page: How Browsers Work",
+                "link": "https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work"
+              },
+              {
+                "link_id": "browser-l4",
+                "link_name": "How Do Web Browsers Work?",
+                "link": "https://www.youtube.com/watch?v=WjDrMKZWCt0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "html",
+        "sub_domain_name": "HTML",
+        "topics": [
+          {
+            "topic_id": "learn-basics",
+            "topic_name": "Learn Basics",
+            "links": [
+              {
+                "link_id": "lb-l1",
+                "link_name": "W3Schools: Learn HTML",
+                "link": "https://www.w3schools.com/html/html_intro.asp"
+              },
+              {
+                "link_id": "lb-l2",
+                "link_name": "MDN Docs: Getting Started with HTML",
+                "link": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started"
+              },
+              {
+                "link_id": "lb-l3",
+                "link_name": "web.dev: Learn HTML",
+                "link": "https://web.dev/learn/html"
+              },
+              {
+                "link_id": "lb-l4",
+                "link_name": "HTML Full Course - Build a Website Tutorial",
+                "link": "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+              },
+              {
+                "link_id": "lb-l5",
+                "link_name": "HTML Tutorial for Beginners: HTML Crash Course",
+                "link": "https://www.youtube.com/watch?v=qz0aGYrrlhU"
+              },
+              {
+                "link_id": "lb-l6",
+                "link_name": "HTML Cheatsheet",
+                "link": "https://htmlcheatsheet.com/"
+              }
+            ]
+          },
+          {
+            "topic_id": "semantic-html",
+            "topic_name": "Semantic HTML",
+            "links": [
+              {
+                "link_id": "shtml-l1",
+                "link_name": "Guide to Writing Semantic HTML",
+                "link": "https://cs.fyi/guide/writing-semantic-html"
+              },
+              {
+                "link_id": "shtml-l2",
+                "link_name": "W3Schools: Semantic HTML",
+                "link": "https://www.w3schools.com/html/html5_semantic_elements.asp"
+              },
+              {
+                "link_id": "shtml-l3",
+                "link_name": "How To Write Semantic HTML",
+                "link": "https://hackernoon.com/how-to-write-semantic-html-dkq3ulo"
+              },
+              {
+                "link_id": "shtml-l4",
+                "link_name": "HTML Best Practices – How to Build a Better HTML-Based Website",
+                "link": "https://www.freecodecamp.org/news/html-best-practices/"
+              },
+              {
+                "link_id": "shtml-l5",
+                "link_name": "Semantic HTML - web.dev",
+                "link": "https://web.dev/learn/html/semantic-html/"
+              }
+            ]
+          },
+          {
+            "topic_id": "forms-and-validations",
+            "topic_name": "Forms and validations",
+            "links": [
+              {
+                "link_id": "fav-l1",
+                "link_name": "MDN Web Docs: Client-side form validation",
+                "link": "https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation"
+              },
+              {
+                "link_id": "fav-l2",
+                "link_name": "Learn Forms by web.dev",
+                "link": "https://web.dev/learn/forms/"
+              },
+              {
+                "link_id": "fav-l3",
+                "link_name": "W3Schools: JavaScript Form Validation",
+                "link": "https://www.w3schools.com/js/js_validation.asp"
+              }
+            ]
+          },
+          {
+            "topic_id": "basics-of-seo",
+            "topic_name": "Basics of SEO",
+            "links": [
+              {
+                "link_id": "bos-l1",
+                "link_name": "Google Search Central — SEO Docs",
+                "link": "https://developers.google.com/search/docs"
+              },
+              {
+                "link_id": "bos-l2",
+                "link_name": "SEO Guide",
+                "link": "https://github.com/seo/guide"
+              },
+              {
+                "link_id": "bos-l3",
+                "link_name": "SEO for Developers",
+                "link": "https://medium.com/welldone-software/seo-for-developers-a-quick-overview-5b5b7ce34679"
+              },
+              {
+                "link_id": "bos-l4",
+                "link_name": "Complete SEO Course for Beginners",
+                "link": "https://www.youtube.com/watch?v=xsVTqzratPs"
+              },
+              {
+                "link_id": "bos-l5",
+                "link_name": "Learning SEO",
+                "link": "https://learningseo.io/"
+              }
+            ]
+          },
+          {
+            "topic_id": "accessibility",
+            "topic_name": "Accessibility",
+            "links": [
+              {
+                "link_id": "acc-l1",
+                "link_name": "Developing for Web Accessibility by W3C WAI",
+                "link": "https://www.w3.org/WAI/tips/developing/"
+              },
+              {
+                "link_id": "acc-l2",
+                "link_name": "Accessibility Tutorial",
+                "link": "https://www.w3schools.com/accessibility/index.php"
+              },
+              {
+                "link_id": "acc-l3",
+                "link_name": "A Complete Guide To Accessible Front-End Components",
+                "link": "https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/"
+              },
+              {
+                "link_id": "acc-l4",
+                "link_name": "Complete Playlist on Accessibility",
+                "link": "https://youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g"
+              },
+              {
+                "link_id": "acc-l5",
+                "link_name": "MDN Accessibility",
+                "link": "https://developer.mozilla.org/en-US/docs/Web/Accessibility"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "css",
+        "sub_domain_name": "CSS",
+        "topics": [
+          {
+            "topic_id": "css-basics",
+            "topic_name": "CSS Basics",
+            "links": [
+              {
+                "link_id": "cb-l1",
+                "link_name": "W3Schools — Learn CSS",
+                "link": "https://www.w3schools.com/css/"
+              },
+              {
+                "link_id": "cb-l2",
+                "link_name": "web.dev — Learn CSS",
+                "link": "https://web.dev/learn/css/"
+              },
+              {
+                "link_id": "cb-l3",
+                "link_name": "freeCodeCamp — Responsive Web Design",
+                "link": "https://www.freecodecamp.org/learn/responsive-web-design/"
+              },
+              {
+                "link_id": "cb-l4",
+                "link_name": "Learn to Code HTML & CSS",
+                "link": "https://learn.shayhowe.com/html-css/building-your-first-web-page/"
+              },
+              {
+                "link_id": "cb-l5",
+                "link_name": "CSS Crash Course For Absolute Beginners",
+                "link": "https://www.youtube.com/watch?v=yfoY53QXEnI"
+              }
+            ]
+          },
+          {
+            "topic_id": "making-layouts",
+            "topic_name": "Making Layouts",
+            "links": [
+              {
+                "link_id": "ml-l1",
+                "link_name": "Learn and Practice Flexbox",
+                "link": "https://flexboxfroggy.com/"
+              },
+              {
+                "link_id": "ml-l2",
+                "link_name": "https://cssgridgarden.com/",
+                "link": "https://cssgridgarden.com/"
+              },
+              {
+                "link_id": "ml-l3",
+                "link_name": "All about Floats",
+                "link": "https://css-tricks.com/all-about-floats/"
+              },
+              {
+                "link_id": "ml-l4",
+                "link_name": "Positioning Types: How Do They Differ?",
+                "link": "https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/"
+              },
+              {
+                "link_id": "ml-l5",
+                "link_name": "The Box Model",
+                "link": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"
+              },
+              {
+                "link_id": "ml-l6",
+                "link_name": "The CSS Display Property",
+                "link": "https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/"
+              },
+              {
+                "link_id": "ml-l7",
+                "link_name": "A Complete Guide to Flexbox",
+                "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox"
+              },
+              {
+                "link_id": "ml-l8",
+                "link_name": "A Complete Guide to Grid",
+                "link": "https://css-tricks.com/snippets/css/complete-guide-grid"
+              },
+              {
+                "link_id": "ml-l9",
+                "link_name": "Learn CSS Grid - Course",
+                "link": "https://cssgrid.io/"
+              },
+              {
+                "link_id": "ml-l10",
+                "link_name": "Learn CSS Grid for free",
+                "link": "https://scrimba.com/learn/cssgrid"
+              },
+              {
+                "link_id": "ml-l11",
+                "link_name": "Get on the Grid at Last with the CSS Grid Layout Module",
+                "link": "https://thenewstack.io/get-grid-last-css-grid-template-markup/"
+              }
+            ]
+          },
+          {
+            "topic_id": "responsive-web-design",
+            "topic_name": "Responsive Web Design",
+            "links": [
+              {
+                "link_id": "rwd-l1",
+                "link_name": "Responsive Web Design",
+                "link": "https://www.w3schools.com/css/css_rwd_intro.asp"
+              },
+              {
+                "link_id": "rwd-l2",
+                "link_name": "Learn Responsive Design",
+                "link": "https://web.dev/learn/design/"
+              },
+              {
+                "link_id": "rwd-l3",
+                "link_name": "The Beginner’s Guide to Responsive Web Design",
+                "link": "https://kinsta.com/blog/responsive-web-design/"
+              },
+              {
+                "link_id": "rwd-l4",
+                "link_name": "The guide to responsive web design in 2022",
+                "link": "https://webflow.com/blog/responsive-web-design"
+              },
+              {
+                "link_id": "rwd-l5",
+                "link_name": "5 simple tips to making responsive layouts the easy way",
+                "link": "https://www.youtube.com/watch?v=VQraviuwbzU"
+              },
+              {
+                "link_id": "rwd-l6",
+                "link_name": "Introduction To Responsive Web Design",
+                "link": "https://www.youtube.com/watch?v=srvUrASNj0s"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "javascript",
+        "sub_domain_name": "JavaScript",
+        "topics": [
+          {
+            "topic_id": "learn-basics-javascript",
+            "topic_name": "Learn Basics Javascript",
+            "links": [
+              {
+                "link_id": "lbj-l1",
+                "link_name": "W3Schools – JavaScript Tutorial",
+                "link": "https://www.w3schools.com/js/"
+              },
+              {
+                "link_id": "lbj-l2",
+                "link_name": "The Modern JavaScript Tutorial",
+                "link": "https://javascript.info/"
+              },
+              {
+                "link_id": "lbj-l3",
+                "link_name": "JavaScript Crash Course for Beginners",
+                "link": "https://youtu.be/hdI2bqOjy3c?t=2"
+              },
+              {
+                "link_id": "lbj-l4",
+                "link_name": "Build a Netflix Landing Page Clone with HTML, CSS & JS",
+                "link": "https://youtu.be/P7t13SGytRk?t=22"
+              }
+            ]
+          },
+
+          {
+            "topic_id": "learn-dom-manipulation",
+            "topic_name": "Learn DOM Manipulation",
+            "links": [
+              {
+                "link_id": "ldm-l1",
+                "link_name": "DOM Tree",
+                "link": "https://javascript.info/dom-nodes"
+              },
+              {
+                "link_id": "ldm-l2",
+                "link_name": "What is the DOM?",
+                "link": "https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/"
+              },
+              {
+                "link_id": "ldm-l3",
+                "link_name": "Eloquent JavaScript, 3rd Edition: The Document Object Model",
+                "link": "https://eloquentjavascript.net/14_dom.html"
+              },
+              {
+                "link_id": "ldm-l4",
+                "link_name": "JavaScript HTML DOM",
+                "link": "https://www.w3schools.com/js/js_htmldom.asp"
+              },
+              {
+                "link_id": "ldm-l5",
+                "link_name": "JavaScript DOM",
+                "link": "https://www.javascripttutorial.net/javascript-dom/"
+              },
+              {
+                "link_id": "ldm-l6",
+                "link_name": "JavaScript DOM Crash Course",
+                "link": "https://www.youtube.com/watch?v=0ik6X4DJKCc"
+              }
+            ]
+          },
+          {
+            "topic_id": "fetch-api",
+            "topic_name": "Fetch API",
+            "links": [
+              {
+                "link_id": "fa-l1",
+                "link_name": "Fetch API MDN Docs",
+                "link": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API"
+              },
+              {
+                "link_id": "fa-l2",
+                "link_name": "A Simple Guide to JavaScript Fetch API",
+                "link": "https://www.javascripttutorial.net/javascript-fetch-api/"
+              },
+              {
+                "link_id": "fa-l3",
+                "link_name": "Introduction to Fetch",
+                "link": "https://web.dev/introduction-to-fetch/"
+              },
+              {
+                "link_id": "fa-l4",
+                "link_name": "JavaScript Fetch API",
+                "link": "https://www.youtube.com/watch?v=-ZI0ea5O2oA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sub_domain_id": "git",
+        "sub_domain_name": "GIT",
+        "topics": [
+          {
+            "topic_id": "git",
+            "topic_name": "GIT",
+            "links": [
+              {
+                "link_id": "git-l1",
+                "link_name": "Git & GitHub Crash Course For Beginners",
+                "link": "https://www.youtube.com/watch?v=SWYqp7iY_Tc"
+              },
+              {
+                "link_id": "git-l2",
+                "link_name": "Learn Git with Tutorials, News and Tips - Atlassian",
+                "link": "https://www.atlassian.com/git"
+              },
+              {
+                "link_id": "git-l3",
+                "link_name": "Git Cheat Sheet",
+                "link": "https://cs.fyi/guide/git-cheatsheet"
+              },
+              {
+                "link_id": "git-l4",
+                "link_name": "Tutorial: Git for Absolutely Everyone",
+                "link": "https://thenewstack.io/tutorial-git-for-absolutely-everyone/"
+              }
+            ]
+          },
+          {
+            "topic_id": "github",
+            "topic_name": "GITHUB",
+            "links": [
+              {
+                "link_id": "gh-l1",
+                "link_name": "GitHub: Quickstart",
+                "link": "https://docs.github.com/en/get-started/quickstart/hello-world"
+              },
+              {
+                "link_id": "gh-l2",
+                "link_name": "Learn GitHub by doing",
+                "link": "https://skills.github.com/"
+              },
+              {
+                "link_id": "gh-l3",
+                "link_name": "What is GitHub?",
+                "link": "https://www.youtube.com/watch?v=w3jLJU7DT5E"
+              },
+              {
+                "link_id": "gh-l4",
+                "link_name": "Git vs. GitHub: Whats the difference?",
+                "link": "https://www.youtube.com/watch?v=wpISo9TNjfU"
+              },
+              {
+                "link_id": "gh-l5",
+                "link_name": "Git and GitHub for Beginners",
+                "link": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+              }
+            ]
+          },
+          {
+            "topic_id": "gitlab",
+            "topic_name": "GITLAB",
+            "links": [
+              {
+                "link_id": "gl-l1",
+                "link_name": "GitLab Documentation",
+                "link": "https://docs.gitlab.com/"
+              },
+              {
+                "link_id": "gl-l2",
+                "link_name": "GitLab Website",
+                "link": "https://gitlab.com/"
+              },
+              {
+                "link_id": "gl-l3",
+                "link_name": "Development: Connect git to GitLab for Small Projects",
+                "link": "https://thenewstack.io/development-connect-git-to-gitlab-for-small-projects/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

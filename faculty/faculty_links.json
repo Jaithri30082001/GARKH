@@ -1,0 +1,2987 @@
+{
+  "GITAM School of Technology": {
+    "school_id": "gst",
+    "school_name": "GITAM SCHOOL OF TECHNOLOGY",
+    "head_of_the_school": {
+      "name": "Nagendra Prasad Kota",
+      "email_id": "nkota@gitam.edu",
+      "link": "https://www.gitam.edu/faculty-profile?info=Nagendra-Prasad-Kota$$NTAyMzU4"
+    },
+    "departments": [
+      {
+        "department_name": "BIOTECHNOLOGY",
+        "department_id": "gst-biotechnology",
+        "head_of_the_department": [
+          {
+            "name": "Khasim Beebi S.",
+            "email_id": "kshaik@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Khasim-Beebi-S-$$MTAyMw=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Murali Mohan Ch.",
+            "email_id": "mchalla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Murali-Mohan-Ch-$$MTAyNA=="
+          },
+          {
+            "name": "Sekhar T.",
+            "email_id": "stalluri@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sekhar-T-$$MTAxMw=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Manjunatha Thondamal",
+            "email_id": "mthondam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Manjunatha-Thondamal$$NTAxOTM2"
+          },
+          {
+            "name": "Narayana Saibaba KV",
+            "email_id": "skvn@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Narayana-Saibaba-KV-$$MTA1NA=="
+          },
+          {
+            "name": "Prameela Kandra",
+            "email_id": "pkandra@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prameela-Kandra$$MTA1Mw=="
+          },
+          {
+            "name": "Sarat Babu I.",
+            "email_id": "simandi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sarat-Babu-I-$$MTA2Nw=="
+          },
+          {
+            "name": "Vasavi Rama K.",
+            "email_id": "vkarri@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vasavi-Rama-K-$$MTA2Mw=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Gopinadh R.",
+            "email_id": "greyya@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Gopinadh-R-$$MTA1Ng=="
+          },
+          {
+            "name": "Mohanasundaram Nachimuthu",
+            "email_id": "mnachimu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mohanasundaram-Nachimuthu$$MTA3MA=="
+          },
+          {
+            "name": "Rajesh Kumar S.",
+            "email_id": "rsrivast@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rajesh-Kumar-S-$$MTA3MQ=="
+          },
+          {
+            "name": "Ramya Sree Boddu",
+            "email_id": "rboddu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramya-Sree-Boddu$$NTAyNjU1"
+          },
+          {
+            "name": "Shantimoy Kar",
+            "email_id": "skar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shantimoy-Kar$$NTAyNzIy"
+          },
+          {
+            "name": "Silas Saka",
+            "email_id": "ssaka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Silas-Saka$$MTA2OA=="
+          }
+        ]
+      },
+      {
+        "department_name": "CIVIL ENGINEERING",
+        "department_id": "gst-civil-engineering",
+        "head_of_the_department": [
+          {
+            "name": "Mukunda Rao D.",
+            "email_id": "mdangeti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mukunda-Rao-D-$$MTEyNA=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Narendra Karanam",
+            "email_id": "nkaranam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Narendra-Karanam$$NTAyMTQ0"
+          },
+          {
+            "name": "Ramesh M.",
+            "email_id": "rmaddams@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramesh-M-$$MTEyMg=="
+          },
+          {
+            "name": "Srinivas T.",
+            "email_id": "stanuku@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-T-$$MTAxMg=="
+          },
+          {
+            "name": "Venkata Ramesh K.",
+            "email_id": "rkode@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Ramesh-K-$$MTIwMg=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Chandan Kumar P.",
+            "email_id": "ppatnaik@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chandan-Kumar-P-$$MTE1NA=="
+          },
+          {
+            "name": "Kanaka Durga S.",
+            "email_id": "ksambhan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kanaka-Durga-S-$$MTE1Mw=="
+          },
+          {
+            "name": "Sai Kumar Vindula",
+            "email_id": "svindula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sai-Kumar-Vindula-$$MTE1OQ=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Arthesh Basak Civil Engineering",
+            "email_id": "abasak@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Arthesh-Basak$$MTE3Ng=="
+          },
+          {
+            "name": "Eswararao S.",
+            "email_id": "esingire@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Eswararao-S-$$MTE4NA=="
+          },
+          {
+            "name": "Neeraja M.",
+            "email_id": "nmedapat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Neeraja-M-$$MTE1NQ=="
+          },
+          {
+            "name": "Ramesh Bantupalli",
+            "email_id": "rbantupa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramesh-Bantupalli-$$MTE3OQ=="
+          },
+          {
+            "name": "Srikanth Satish Kumar Darapu",
+            "email_id": "sdarapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srikanth-Satish-Kumar-Darapu$$MTE1Ng=="
+          },
+          {
+            "name": "Srinivasa Rao Gandupalli",
+            "email_id": "sgandupa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-Gandupalli-$$MTE4Mg=="
+          },
+          {
+            "name": "Subhash Chandra",
+            "email_id": "schandra3@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Subhash-Chandra$$NTAxODM3"
+          },
+          {
+            "name": "Sunil Nandipati",
+            "email_id": "snandipa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sunil-Nandipati-$$MTE2OA=="
+          },
+          {
+            "name": "SuryaTeja C.",
+            "email_id": "schinnal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=SuryaTeja-C-$$MTE4OA=="
+          },
+          {
+            "name": "Tharun Dolla",
+            "email_id": "tdolla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Tharun-Dolla$$NTAyMDE1"
+          }
+        ]
+      },
+      {
+        "department_name": "MECHANICAL ENGINEERING",
+        "department_id": "gst-mechanical-engineering",
+        "head_of_the_department": [
+          {
+            "name": "Srinivas V.",
+            "email_id": "svadapal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-V-$$MjA0Mw=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Rama Surya Satyanarayana Munukurthi",
+            "email_id": "mmunukur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rama-Surya-Satyanarayana-Munukurthi$$MjAwMQ=="
+          },
+          {
+            "name": "Siva Prasad D.",
+            "email_id": "sdora@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Siva-Prasad-D-$$MjEwMQ=="
+          },
+          {
+            "name": "Srinivasa Prasad B.",
+            "email_id": "sballa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Prasad-B-$$MjEwNg=="
+          },
+          {
+            "name": "Surendra Babu B.",
+            "email_id": "sbattula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Surendra-Babu-B-$$MjIwMQ=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Arun Vikram K.",
+            "email_id": "akothapa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Arun-Vikram-K-$$MjI2MQ=="
+          },
+          {
+            "name": "Rajeswara Reddy R.",
+            "email_id": "rresapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rajeswara-Reddy-R-$$MjEyNg=="
+          },
+          {
+            "name": "S. N. V. Ramana V.",
+            "email_id": "svuppala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-N-V-Ramana-V-$$MjA1MA=="
+          },
+          {
+            "name": "S. V. Ramana Rao S.",
+            "email_id": "rsusarla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-V-Ramana-Rao-S-$$MjIyMg=="
+          },
+          {
+            "name": "Sarojini J.",
+            "email_id": "sjajimog@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sarojini-J-$$MjEwMg=="
+          },
+          {
+            "name": "Shabana",
+            "email_id": "sshabana@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shabana-$$MjI2NQ=="
+          },
+          {
+            "name": "Shoba C.",
+            "email_id": "schintad@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shoba-C-$$MjI1NQ=="
+          },
+          {
+            "name": "Srinivas Paleti",
+            "email_id": "spaleti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-Paleti-$$MjA0Mg=="
+          },
+          {
+            "name": "Srinivasa Rao P.",
+            "email_id": "spujari@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-P-$$MjEwOQ=="
+          },
+          {
+            "name": "V. S. Seshendra Kumar K.",
+            "email_id": "skarri@gitam.edu",
+            "link": "skarri@gitam.edu"
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Abdul Razack Mohammad",
+            "email_id": "amohamma@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Abdul-Razack-Mohammad-$$MjEzOQ=="
+          },
+          {
+            "name": "Adarsha Kumar K.",
+            "email_id": "akaladar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Adarsha-Kumar-K-$$MjExNw=="
+          },
+          {
+            "name": "Anjani Raj M.",
+            "email_id": "amanyala@gitam.edu",
+            "link": "amanyala@gitam.edu"
+          },
+          {
+            "name": "Appalanaidu Botcha",
+            "email_id": "abotcha@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Appalanaidu-Botcha$$NTAyMDg0"
+          },
+          {
+            "name": "Bhanu Pavan Ravuri",
+            "email_id": "bravuri@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bhanu-Pavan-Ravuri$$MjExMw=="
+          },
+          {
+            "name": "Bhavani K.",
+            "email_id": "bkoona@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bhavani-K-$$MjEyMQ=="
+          },
+          {
+            "name": "Divakar B.",
+            "email_id": "dbommana@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Divakar-B-$$MjE0MA=="
+          },
+          {
+            "name": "Gandhi P.",
+            "email_id": "gpullagu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Gandhi-P-$$MTAyNTM="
+          },
+          {
+            "name": "Hemanth Kumar S.",
+            "email_id": "hsonga@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Hemanth-Kumar-S-$$MjI1Ng=="
+          },
+          {
+            "name": "Jai Kumar S",
+            "email_id": "jsagari@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jai-Kumar-S$$MjEzNQ=="
+          },
+          {
+            "name": "Kodanda Ramarao Chebattina",
+            "email_id": "kchebatt@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kodanda-Ramarao-Chebattina-$$MjEyNw=="
+          },
+          {
+            "name": "Kumar Swain P.",
+            "email_id": "kprafull@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kumar-Swain-P-$$MjE0Nw=="
+          },
+          {
+            "name": "Naga Malleswari V.",
+            "email_id": "nvangipu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naga-Malleswari-V-$$MjI1OA=="
+          },
+          {
+            "name": "Nagaraju Dora",
+            "email_id": "ndora@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nagaraju-Dora$$MjEzMw=="
+          },
+          {
+            "name": "Narendra Kumar Kolla",
+            "email_id": "nkolla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Narendra-Kumar-Kolla$$MjE0Mg=="
+          },
+          {
+            "name": "Padmini R.",
+            "email_id": "prapeti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Padmini-R-$$MjI2Mg=="
+          },
+          {
+            "name": "Prem Kumar Garapati",
+            "email_id": "pgarapat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prem-Kumar-Garapati$$MjI2Mw=="
+          },
+          {
+            "name": "Raja Sekhar M.",
+            "email_id": "rmedidi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Raja-Sekhar-M-$$MjEzMA=="
+          },
+          {
+            "name": "Rajesh Kumar Dora T.",
+            "email_id": "rtamirid@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rajesh-Kumar-Dora-T-$$MjE0OQ=="
+          },
+          {
+            "name": "Raju P.",
+            "email_id": "rprathip@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Raju-P-$$MjExMA=="
+          },
+          {
+            "name": "Rama Mohana Rao M.",
+            "email_id": "rmadaka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rama-Mohana-Rao-M-$$MjEyMw=="
+          },
+          {
+            "name": "Sandeep Alanka",
+            "email_id": "salanka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sandeep-Alanka-$$MjEzMg=="
+          },
+          {
+            "name": "Sankara Narayana Kota",
+            "email_id": "skota@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sankara-Narayana-Kota$$MjEzMQ=="
+          },
+          {
+            "name": "Simhadri Raju Juvvala",
+            "email_id": "rjuvvala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Simhadri-Raju-Juvvala-$$MjEzNw=="
+          },
+          {
+            "name": "Sunny Kumar Annam",
+            "email_id": "sannam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sunny-Kumar-Annam-$$MjI2NA=="
+          },
+          {
+            "name": "Suresh K.",
+            "email_id": "skilapar2@gitam.edu",
+            "link": "skilapar2@gitam.edu"
+          },
+          {
+            "name": "Uma Maheswara Rao J.",
+            "email_id": "ujavvadi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Uma-Maheswara-Rao-J-$$MjEyMg=="
+          },
+          {
+            "name": "V. K. Lakshmi V.",
+            "email_id": "lvennela@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-K-Lakshmi-V-$$MjI2OQ=="
+          }
+        ]
+      },
+      {
+        "department_name": "ELECTRICAL AND ELECTRONCIS COMMUNICATION AND ENGINEERING",
+        "department_id": "gst-ece",
+        "head_of_the_department": [
+          {
+            "name": "Beatrice Seventline J.",
+            "email_id": "sjoseph@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Beatrice-Seventline-J-$$MTQ0OA=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Bala Sai Srilatha Indira Dutt Vemuri",
+            "email_id": "svemuri@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bala-Sai-Srilatha-Indira-Dutt-Vemuri$$MTUzOQ=="
+          },
+          {
+            "name": "Chandra Kumar Bharani Pakki",
+            "email_id": "cpakki@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chandra-Kumar-Bharani-Pakki$$NTAxNDM3"
+          },
+          {
+            "name": "V. Y. Jayasree P.",
+            "email_id": "jpappu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-Y-Jayasree-P-$$MTQ0MQ=="
+          },
+          {
+            "name": "Venkata Krishna Sharma G.",
+            "email_id": "sgollako@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Krishna-Sharma-G-$$MTQ0Nw=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "E. Sanyasi Naidu I.",
+            "email_id": "ninjarap@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=E-Sanyasi-Naidu-I-$$MTcyNA=="
+          },
+          {
+            "name": "Gowri T.",
+            "email_id": "gthumbur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Gowri-T-$$MTUzNQ=="
+          },
+          {
+            "name": "Jyothi V.",
+            "email_id": "jvankara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jyothi-V-$$MTYyNA=="
+          },
+          {
+            "name": "Jyothi N.",
+            "email_id": "jnutakki@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jyothi-N-$$MTYyNQ=="
+          },
+          {
+            "name": "Karunakar G.",
+            "email_id": "kgodi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Karunakar-G-$$MTQ0Ng=="
+          },
+          {
+            "name": "KarunaKumari K.",
+            "email_id": "kkoyya@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=KarunaKumari-K-$$MTQ1Mw=="
+          },
+          {
+            "name": "L. Rajeswara Rao L.",
+            "email_id": "rlangoju@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=L-Rajeswara-Rao-L-$$MTY1MQ=="
+          },
+          {
+            "name": "Madhavi D.",
+            "email_id": "mdunna@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Madhavi-D-$$MTQ1NA=="
+          },
+          {
+            "name": "Neeraja S.",
+            "email_id": "nsajja@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Neeraja-S-$$MTUwMw=="
+          },
+          {
+            "name": "Prasanthi Rathnala",
+            "email_id": "prathnal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prasanthi-Rathnala$$NTAwNzkz"
+          },
+          {
+            "name": "Rajesh Kumar B.",
+            "email_id": "rburra@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rajesh-Kumar-B-$$MTY1NQ=="
+          },
+          {
+            "name": "Salma U.",
+            "email_id": "summe@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Salma-U-$$MTcyMw=="
+          },
+          {
+            "name": "Sreenivas A.",
+            "email_id": "salluri@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sreenivas-A-$$MTQ0NQ=="
+          },
+          {
+            "name": "Sridevi K.",
+            "email_id": "skataman@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sridevi-K-$$MTQ0Mw=="
+          },
+          {
+            "name": "Srinivasa Rao Sura",
+            "email_id": "ssura@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-Sura$$MTc2Nw=="
+          },
+          {
+            "name": "Sudhir A. Ch.",
+            "email_id": "camanapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sudhir-A-Ch-$$MTUxMw=="
+          },
+          {
+            "name": "Uday Kumar Budidi",
+            "email_id": "ubudidi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Uday-Kumar-Budidi$$MTYyMw=="
+          },
+          {
+            "name": "VenkataRamana T.",
+            "email_id": "vteppala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=VenkataRamana-T-$$MTQ0Mg=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Aditya Rallapati",
+            "email_id": "arallapa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Aditya-Rallapati-$$MTU2OQ=="
+          },
+          {
+            "name": "Anitha Guttavelli",
+            "email_id": "aguttave@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anitha-Guttavelli$$MTUwNw=="
+          },
+          {
+            "name": "Aravind Kumar K.",
+            "email_id": "akondaji@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Aravind-Kumar-K-$$MTc1Mw=="
+          },
+          {
+            "name": "Atchutarao P.",
+            "email_id": "apudu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Atchutarao-P-$$MTU3Mg=="
+          },
+          {
+            "name": "Chaitanya Kommu",
+            "email_id": "ckommu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chaitanya-Kommu-$$MTUzNw=="
+          },
+          {
+            "name": "Das Prakash C.",
+            "email_id": "dchennam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Das-Prakash-C-$$MTc2OA=="
+          },
+          {
+            "name": "Devi Prasad Pattnaik",
+            "email_id": "dpattnai@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Devi-Prasad-Pattnaik-$$MTU1Ng=="
+          },
+          {
+            "name": "Durga Prasad B",
+            "email_id": "dbandaru@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Durga-Prasad-B$$MTc1Ng=="
+          },
+          {
+            "name": "Durga Prasad T.",
+            "email_id": "dtumula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Durga-Prasad-T-$$MTUwNg=="
+          },
+          {
+            "name": "Durga Rao Jenjeti",
+            "email_id": "djenjeti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Durga-Rao-Jenjeti$$MTU0Ng=="
+          },
+          {
+            "name": "Ebraheem M.",
+            "email_id": "emenda@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ebraheem-M-$$MTc2Ng=="
+          },
+          {
+            "name": "Gayatri A.",
+            "email_id": "gallu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Gayatri-A-$$MTU0NA=="
+          },
+          {
+            "name": "Gopi Krishna Sammeta",
+            "email_id": "gsammeta@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Gopi-Krishna-Sammeta-$$MTU2MQ=="
+          },
+          {
+            "name": "Grace Mercy M.",
+            "email_id": "gmatta@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Grace-Mercy-M-$$MTY1OQ=="
+          },
+          {
+            "name": "Harshavardhan Settibhaktini",
+            "email_id": "hsettibh@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Harshavardhan-Settibhaktini$$NTAxNTI2"
+          },
+          {
+            "name": "Jagadeesh A.",
+            "email_id": "jadari@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jagadeesh-A-$$MTc5MA=="
+          },
+          {
+            "name": "Jagadeesh Babu N.",
+            "email_id": "jnakka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jagadeesh-Babu-N-$$MTY2NA=="
+          },
+          {
+            "name": "Jagadish Kumar B.",
+            "email_id": "jbokam2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jagadish-Kumar-B-$$MTAxOTY="
+          },
+          {
+            "name": "Janamani Chandram A.",
+            "email_id": "jayyanga@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Janamani-Chandram-A-$$MTU3Ng=="
+          },
+          {
+            "name": "Kalyan Babu K.",
+            "email_id": "kkillana@gitam.edu",
+            "link": "kkillana@gitam.edu"
+          },
+          {
+            "name": "Kanthamma B.",
+            "email_id": "kbokka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kanthamma-B-$$MTUxNQ=="
+          },
+          {
+            "name": "Koteswara Rao Naik R.",
+            "email_id": "kramavat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Koteswara-Rao-Naik-R-$$MTUyMA=="
+          },
+          {
+            "name": "Madhu Babu Y.",
+            "email_id": "myalaka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Madhu-Babu-Y-$$MTU0MQ=="
+          },
+          {
+            "name": "Manohar K.",
+            "email_id": "mkintali@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Manohar-K-$$MTc2Mw=="
+          },
+          {
+            "name": "Murali Krishna M.",
+            "email_id": "mmadugul@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Murali-Krishna-M-$$MTUxMA=="
+          },
+          {
+            "name": "N. V. L. Muralikrishna M.",
+            "email_id": "mmunagal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=N-V-L-Muralikrishna-M-$$MTY2Ng=="
+          },
+          {
+            "name": "Nageswara Rao P.",
+            "email_id": "npulivar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nageswara-Rao-P-$$MTc3NA=="
+          },
+          {
+            "name": "Narasimha Rao Gunda",
+            "email_id": "ngunda@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Narasimha-Rao-Gunda$$MTc4OQ=="
+          },
+          {
+            "name": "Narayana Gangadhar Marupalli",
+            "email_id": "gmarupal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Narayana-Gangadhar-Marupalli$$MTU2Mg=="
+          },
+          {
+            "name": "Naresh Patnana",
+            "email_id": "npatnana@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naresh-Patnana-$$MTc5MQ=="
+          },
+          {
+            "name": "Nooka Raju V",
+            "email_id": "nvaddadi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nooka-Raju-V-$$MTY1Ng=="
+          },
+          {
+            "name": "Padmavathi Tadi",
+            "email_id": "ptadi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Padmavathi-Tadi$$MTc1MQ=="
+          },
+          {
+            "name": "Pradeep Vinaik K.",
+            "email_id": "pkodavan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Pradeep-Vinaik-K-$$MTUxNg=="
+          },
+          {
+            "name": "Prasad G",
+            "email_id": "pgajja@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prasad-G$$MTc3NQ=="
+          },
+          {
+            "name": "Prateek Kumar Jana",
+            "email_id": "pjana@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prateek-Kumar-Jana$$MTU3NQ=="
+          },
+          {
+            "name": "Praveen M.",
+            "email_id": "pmande@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Praveen-M-$$MTc2OQ=="
+          },
+          {
+            "name": "R.Phani Kumar C.",
+            "email_id": "rchintal2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=R-Phani-Kumar-C-$$MTUwMQ=="
+          },
+          {
+            "name": "Raja Kumar Vandrasi",
+            "email_id": "rvandras2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Raja-Kumar-Vandrasi$$MTc3OA=="
+          },
+          {
+            "name": "Raja Sekhar C.",
+            "email_id": "rchukka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Raja-Sekhar-C-$$MTUwNQ=="
+          },
+          {
+            "name": "Raju P.",
+            "email_id": "rpaladug@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Raju-P-$$MTUxOQ=="
+          },
+          {
+            "name": "Ramesh P.",
+            "email_id": "rpotluri@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramesh-P-$$MTY3Mg=="
+          },
+          {
+            "name": "Ramesh M.",
+            "email_id": "rmanikon@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramesh-M-$$MTUzNg=="
+          },
+          {
+            "name": "Ramu M.",
+            "email_id": "rmutyala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramu-M-$$MTc3MQ=="
+          },
+          {
+            "name": "Ratna Kumari U.",
+            "email_id": "rupadhya@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ratna-Kumari-U-$$MTUzMQ=="
+          },
+          {
+            "name": "Ravi Kiran Balasa",
+            "email_id": "rbalasa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Kiran-Balasa$$MTU0Mw=="
+          },
+          {
+            "name": "Renu K.",
+            "email_id": "rkarra@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Renu-K-$$MTUwOA=="
+          },
+          {
+            "name": "S. P. Kumar Patnaik M.",
+            "email_id": "kmanipat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-P-Kumar-Patnaik-M-$$MTY3Ng=="
+          },
+          {
+            "name": "S. S. Srikanth S.",
+            "email_id": "ssathira@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-S-Srikanth-S-$$MTY3Mw=="
+          },
+          {
+            "name": "Sandeep Kumar Ladi",
+            "email_id": "sladi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sandeep-Kumar-Ladi$$MTU1NA=="
+          },
+          {
+            "name": "Sandhya T.",
+            "email_id": "sthotaku@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sandhya-T-$$MTc2NQ=="
+          },
+          {
+            "name": "Santosh Kumar V.",
+            "email_id": "svelagal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Santosh-Kumar-V-$$MTUyMg=="
+          },
+          {
+            "name": "Saradha Rani S.",
+            "email_id": "ssabbava@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Saradha-Rani-S-$$MTU0Mg=="
+          },
+          {
+            "name": "Siba Prasad Mishra",
+            "email_id": "smishra@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Siba-Prasad-Mishra$$MTU2OA=="
+          },
+          {
+            "name": "Sowmya I.",
+            "email_id": "sinjeti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sowmya-I-$$MTY2MA=="
+          },
+          {
+            "name": "Sravan Kumar B.",
+            "email_id": "sbali@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sravan-Kumar-B-$$MTc4MA=="
+          },
+          {
+            "name": "Sreenivasa Rao I.",
+            "email_id": "sijjada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sreenivasa-Rao-I-$$MTUwNA=="
+          },
+          {
+            "name": "Sreenivasulu U.",
+            "email_id": "summadis@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sreenivasulu-U-$$MTY4MA=="
+          },
+          {
+            "name": "Sri Chandan Kondamudi",
+            "email_id": "skondamu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sri-Chandan-Kondamudi$$MTc2MA=="
+          },
+          {
+            "name": "Sri Devi K.",
+            "email_id": "skadiyam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sri-Devi-K-$$MTUzOA=="
+          },
+          {
+            "name": "Srinivasa Rao Vammi",
+            "email_id": "svammi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-Vammi$$MTU0NQ=="
+          },
+          {
+            "name": "Srinivasa Rao S.",
+            "email_id": "ssankran@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-S-$$MTU1MA=="
+          },
+          {
+            "name": "Srinu Budumuru",
+            "email_id": "sbudumur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinu-Budumuru$$MTU0OA=="
+          },
+          {
+            "name": "Suri Babu Naick B.",
+            "email_id": "sbhukya@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suri-Babu-Naick-B-$$MTUxOA=="
+          },
+          {
+            "name": "Tarakeswara Rao Kota",
+            "email_id": "tkota@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Tarakeswara-Rao-Kota-$$MTU1Mg=="
+          },
+          {
+            "name": "V. B. Kumar Reddy S.",
+            "email_id": "sbharath@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-B-Kumar-Reddy-S-$$MTY3Nw=="
+          },
+          {
+            "name": "V. S. Varaha Vijay Kumar N.",
+            "email_id": "vnandam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-S-Varaha-Vijay-Kumar-N-$$MTUyNA=="
+          },
+          {
+            "name": "V. Sita Ramprasad M.",
+            "email_id": "rmolavan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-Sita-Ramprasad-M-$$MTUxMg=="
+          },
+          {
+            "name": "V. V. S. Prasad M.",
+            "email_id": "vmantrav@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-V-S-Prasad-M-$$MTU1MQ=="
+          },
+          {
+            "name": "Venkata Rao Chalumuri",
+            "email_id": "vchalumu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Rao-Chalumuri$$MTUxNA=="
+          },
+          {
+            "name": "Venkata Appa Rao Y.",
+            "email_id": "vyempada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Appa-Rao-Y-$$MTUzMg=="
+          },
+          {
+            "name": "Venkata Suri Apparao Tanakala",
+            "email_id": "vtanakal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Suri-Apparao-Tanakala$$MTU0Nw=="
+          },
+          {
+            "name": "VenkataSatya Kumar K.",
+            "email_id": "vkudupud@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=VenkataSatya-Kumar-K-$$MTUxMQ=="
+          },
+          {
+            "name": "Vikram Reddy A.",
+            "email_id": "vanapana@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vikram-Reddy-A-$$MTU2NQ=="
+          },
+          {
+            "name": "Vinod Kumar Kuttey",
+            "email_id": "vkuttey@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vinod-Kumar-Kuttey$$MTc3OQ=="
+          },
+          {
+            "name": "Waliuddin Md",
+            "email_id": "mmohdwal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Waliuddin-Md$$MTAxMzU="
+          }
+        ]
+      },
+      {
+        "department_name": "COMPUTER SCIENCE AND ENGINEERING",
+        "department_id": "gst-cse",
+        "head_of_the_department": [
+          {
+            "name": "Lakshmeeswari Gondi",
+            "email_id": "lgondi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lakshmeeswari-Gondi$$MTMzNQ=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Appa Rao G.",
+            "email_id": "agidutur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Appa-Rao-G-$$MTI0MQ=="
+          },
+          {
+            "name": "Bhramaramba Ravi",
+            "email_id": "bravi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bhramaramba-Ravi$$MTg0Nw=="
+          },
+          {
+            "name": "Krishna Reddy Vuyyuru",
+            "email_id": "kvuyyuru@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Krishna-Reddy-Vuyyuru$$NTAyMDkw"
+          },
+          {
+            "name": "Pragnyaban Mishra",
+            "email_id": "pmishra4@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Pragnyaban-Mishra$$NTAxOTQ3"
+          },
+          {
+            "name": "Prem Kumar Singh",
+            "email_id": "psingh@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prem-Kumar-Singh$$NTAwODU2"
+          },
+          {
+            "name": "Radhika Y.",
+            "email_id": "ryalavar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Radhika-Y-$$MTI0Mw=="
+          },
+          {
+            "name": "Rama Narasinga Rao Manda",
+            "email_id": "rmanda@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rama-Narasinga-Rao-Manda$$NTAxMzk5"
+          },
+          {
+            "name": "S V Prabhakar Vinnakota",
+            "email_id": "svinnako@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-V-Prabhakar-Vinnakota$$NTAyMjUw"
+          },
+          {
+            "name": "Shanti Ch.",
+            "email_id": "schiluku2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shanti-Ch-$$MTIwNw=="
+          },
+          {
+            "name": "Srinivas Gorla",
+            "email_id": "sgorla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-Gorla$$MTIwMDM3"
+          },
+          {
+            "name": "Srinivas Prasad",
+            "email_id": "sprasad@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-Prasad$$MTIwMDQw"
+          },
+          {
+            "name": "Srinivas Y.",
+            "email_id": "syarrama@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-Y-$$MTgwMg=="
+          },
+          {
+            "name": "Suresh Chittineni",
+            "email_id": "schittin@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suresh-Chittineni-$$NTAwMjQx"
+          },
+          {
+            "name": "Thammi Reddy K.",
+            "email_id": "tkonala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Thammi-Reddy-K-$$MTIwNQ=="
+          },
+          {
+            "name": "Thirupathi Rao Komati",
+            "email_id": "tkomati@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Thirupathi-Rao-Komati$$NTAyMDA3"
+          },
+          {
+            "name": "V. Nageswara Rao P.",
+            "email_id": "vpadmana@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-Nageswara-Rao-P-$$MTIwMw=="
+          },
+          {
+            "name": "Venkata Satya Raj Kumar Ganapavarapu",
+            "email_id": "gganapav@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Satya-Raj-Kumar-Ganapavarapu$$MTg0NA=="
+          },
+          {
+            "name": "Venkata Lakshmi P.",
+            "email_id": "vpanga@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Lakshmi-P-$$MTI1MQ=="
+          },
+          {
+            "name": "Venkateswara Rao Mandapati",
+            "email_id": "vmandapa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkateswara-Rao-Mandapati-$$NTAyNDM2"
+          },
+          {
+            "name": "Venkateswara Rao Gurrala",
+            "email_id": "vgurrala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkateswara-Rao-Gurrala$$MTg0Mg=="
+          }
+        ],
+
+        "associate_professors": [
+          {
+            "name": "Anuradha Padala",
+            "email_id": "apadala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anuradha-Padala$$MTMxMQ=="
+          },
+          {
+            "name": "Anuradha Sesetti",
+            "email_id": "asesetti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anuradha-Sesetti$$MTMwOA=="
+          },
+          {
+            "name": "Bhaskara Rao B.",
+            "email_id": "bboddu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bhaskara-Rao-B-$$MTg0NQ=="
+          },
+          {
+            "name": "Bhavani M.",
+            "email_id": "bmadired@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bhavani-M-$$MTkzNQ=="
+          },
+          {
+            "name": "Chandra Sekhar Potala",
+            "email_id": "cpothala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chandra-Sekhar-Potala$$MTkwOQ=="
+          },
+          {
+            "name": "Hyma J",
+            "email_id": "hjanapan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Hyma-J$$NTAwNzg1"
+          },
+          {
+            "name": "Jhansi Yellapu",
+            "email_id": "jyellapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jhansi-Yellapu$$MTkxNQ=="
+          },
+          {
+            "name": "John Jaidhan B.",
+            "email_id": "jbeera@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=John-Jaidhan-B-$$MTI0NA=="
+          },
+          {
+            "name": "Jyothirmayi T.",
+            "email_id": "jtayi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jyothirmayi-T-$$NDEyNQ=="
+          },
+          {
+            "name": "Kameswara Rao Buragapu",
+            "email_id": "kburagap@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kameswara-Rao-Buragapu$$NTAxNzY3"
+          },
+          {
+            "name": "Lakshmeeswari Gondi",
+            "email_id": "lgondi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lakshmeeswari-Gondi$$MTMzNQ=="
+          },
+          {
+            "name": "Mohana Naga Vamsi Thalatam",
+            "email_id": "mthalata@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mohana-Naga-Vamsi-Thalatam$$NTAxOTYx"
+          },
+          {
+            "name": "N. R. L. Chandra Sekhar P.",
+            "email_id": "cpnrl@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=N-R-L-Chandra-Sekhar-P-$$MTI0OA=="
+          },
+          {
+            "name": "Naina Narang",
+            "email_id": "nnarang@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naina-Narang$$NTAxMzgy"
+          },
+          {
+            "name": "Naveen Kumar Kuppili",
+            "email_id": "nkuppili@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naveen-Kumar-Kuppili$$MTkwNQ=="
+          },
+          {
+            "name": "Prakash Bethapudi",
+            "email_id": "pbethapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prakash-Bethapudi$$NTAxODM2"
+          },
+          {
+            "name": "Praveen Kumar Sekharamantry",
+            "email_id": "psekharm@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Praveen-Kumar-Sekharamantry$$MTkwNA=="
+          },
+          {
+            "name": "Ravi Kiran Bagadi",
+            "email_id": "rbagadi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Kiran-Bagadi$$NTAyMDY0"
+          },
+          {
+            "name": "Sankara Rao Parasana",
+            "email_id": "sparasan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sankara-Rao-Parasana$$MTMyMg=="
+          },
+          {
+            "name": "Sankara Rao T.",
+            "email_id": "sterli@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sankara-Rao-T-$$MTI0Nw=="
+          },
+          {
+            "name": "Sharada Katragadda",
+            "email_id": "skatraga@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sharada-Katragadda-$$NTAxNjQ1"
+          },
+          {
+            "name": "Srikanth Thota",
+            "email_id": "sthota@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srikanth-Thota$$NDEyMA=="
+          },
+          {
+            "name": "Srinivas T.",
+            "email_id": "stadi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-T-$$MTI0OQ=="
+          },
+          {
+            "name": "Srinivasa Rao Giduturi",
+            "email_id": "sgidutur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-Giduturi$$MTkwMQ=="
+          },
+          {
+            "name": "Srinivasa Rao T.",
+            "email_id": "sthamada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-T-$$MTI1Mg=="
+          },
+          {
+            "name": "Srinivasa Rao K.",
+            "email_id": "skonda@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-K-$$NDExOA=="
+          },
+          {
+            "name": "Srinivasa Rao Bendi",
+            "email_id": "sbendi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-Bendi$$NTAwNzgz"
+          },
+          {
+            "name": "Srinivasa Rao Routhu",
+            "email_id": "srouthu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-Routhu$$NTAxNjYz"
+          },
+          {
+            "name": "Subhadra K.",
+            "email_id": "skompell@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Subhadra-K-$$MTMwNQ=="
+          },
+          {
+            "name": "Sundara Siva Rao Ivaturi",
+            "email_id": "sivaturi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sundara-Siva-Rao-Ivaturi$$NTAxODg1"
+          },
+          {
+            "name": "Suresh Kumar N.",
+            "email_id": "snandiga@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suresh-Kumar-N-$$MTkyMg=="
+          },
+          {
+            "name": "V. G. Reddy S.",
+            "email_id": "vsaragad@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-G-Reddy-S-$$MTI1MA=="
+          },
+          {
+            "name": "Vijaya Kumar Kollati",
+            "email_id": "vkollati@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vijaya-Kumar-Kollati$$NTAxOTM4"
+          },
+          {
+            "name": "Yogeswara Rao Kalla",
+            "email_id": "ykalla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Yogeswara-Rao-Kalla$$NTAxMjU0"
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Amarnadh S.",
+            "email_id": "asurada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Amarnadh-S-$$MTkzMA=="
+          },
+          {
+            "name": "Ambeshwar kumar",
+            "email_id": "akumar13@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ambeshwar-kumar$$NTAyNDI3"
+          },
+          {
+            "name": "Appa Rao G.",
+            "email_id": "agodi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Appa-Rao-G-$$MTMxMA=="
+          },
+          {
+            "name": "Arup Kumar Mohanty",
+            "email_id": "amohanty@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Arup-Kumar-Mohanty$$NTAxOTI5"
+          },
+          {
+            "name": "Ashutosh Bhoi",
+            "email_id": "abhoi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ashutosh-Bhoi$$NTAyMzE0"
+          },
+          {
+            "name": "Avishek Nandi",
+            "email_id": "anandi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Avishek-Nandi-$$NTAyMzg3"
+          },
+          {
+            "name": "Bangarulakshmi Mahanthi",
+            "email_id": "lmahanth@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bangarulakshmi-Mahanthi$$NTAxMTcy"
+          },
+          {
+            "name": "Bhanu Prasad Ikkurthi",
+            "email_id": "bikkurth@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bhanu-Prasad-Ikkurthi$$NTAyNTE5"
+          },
+          {
+            "name": "Bhargav K",
+            "email_id": "bkandala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bhargav-K$$MTIwMDEz"
+          },
+          {
+            "name": "Chandrakanta Mahanty",
+            "email_id": "cmahanty@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chandrakanta-Mahanty$$NTAyNTcy"
+          },
+          {
+            "name": "Chandrika Dadhirao",
+            "email_id": "cdadhira@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chandrika-Dadhirao$$NTAyNTgy"
+          },
+          {
+            "name": "Chinnarao Kurangi",
+            "email_id": "ckurangi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chinnarao-Kurangi$$NTAyNDEy"
+          },
+          {
+            "name": "Deena Hijam",
+            "email_id": "dhijam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Deena-Hijam-$$NjAwNTE2"
+          },
+          {
+            "name": "Demudu Naidu Chukka",
+            "email_id": "dchukka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Demudu-Naidu-Chukka$$NTAyMTM2"
+          },
+          {
+            "name": "Dhaneshwar Mardi",
+            "email_id": "dmardi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Dhaneshwar-Mardi$$NTAxNjIw"
+          },
+          {
+            "name": "Greeshma Lingam",
+            "email_id": "glingam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Greeshma-Lingam$$NTAxNTQ5"
+          },
+          {
+            "name": "Gurpreet Singh Chhabra",
+            "email_id": "gchhabra@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Gurpreet-Singh-Chhabra$$NTAxNDkz"
+          },
+          {
+            "name": "Hima Keerthi Penumatsa",
+            "email_id": "hpenumat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Hima-Keerthi-Penumatsa$$NTAyMzE4"
+          },
+          {
+            "name": "Himadri Bhusan Girija Sankar Bhuyan",
+            "email_id": "hbhuyan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Himadri-Bhusan-Girija-Sankar-Bhuyan$$NTAyMzE1"
+          },
+          {
+            "name": "Himaja G",
+            "email_id": "hgadi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Himaja-G$$MTIwMDA5"
+          },
+          {
+            "name": "Jaya Vani Vankara",
+            "email_id": "jvankara2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jaya-Vani-Vankara$$NTAyMDU0"
+          },
+          {
+            "name": "Jyotsna Rani T.",
+            "email_id": "jthota@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jyotsna-Rani-T-$$MTM2NA=="
+          },
+          {
+            "name": "Kanaka Raghu S.",
+            "email_id": "ksreeram@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kanaka-Raghu-S-$$MTMwNA=="
+          },
+          {
+            "name": "Kaushik Mishra",
+            "email_id": "kmishra@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kaushik-Mishra$$NTAxODk0"
+          },
+          {
+            "name": "Khadar Ahmad Mnoj Sheik",
+            "email_id": "ksheik@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Khadar-Ahmad-Mnoj-Sheik$$NTAyMDE3"
+          },
+          {
+            "name": "Kranthi Kiran Mandava",
+            "email_id": "kmandava@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kranthi-Kiran-Mandava$$NTAwNjIx"
+          },
+          {
+            "name": "L Aruna Kumari G.",
+            "email_id": "agorli@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=L-Aruna-Kumari-G-$$NDEyNg=="
+          },
+          {
+            "name": "Lakshmi Choudari",
+            "email_id": "lchoudar@gitam.edu",
+            "link": "lchoudar@gitam.edu"
+          },
+          {
+            "name": "Madhuri Namballa",
+            "email_id": "mnamball@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Madhuri-Namballa$$MTIwMDEx"
+          },
+          {
+            "name": "Madhuri Simhadri",
+            "email_id": "msimhadr@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Madhuri-Simhadri$$NTAyNzAx"
+          },
+          {
+            "name": "Mahendra Prasad",
+            "email_id": "mprasad@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mahendra-Prasad-$$NTAxNzMx"
+          },
+          {
+            "name": "Malar Selvi S",
+            "email_id": "msubrama2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Malar-Selvi-S$$MTIwMDA3"
+          },
+          {
+            "name": "Manjula Poojary",
+            "email_id": "mpoojary@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Manjula-Poojary$$NTAxNzM2"
+          },
+          {
+            "name": "Manohar Manikanta Pattisapu",
+            "email_id": "mpattisa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Manohar-Manikanta-Pattisapu$$NTAyMzIz"
+          },
+          {
+            "name": "Mansa Devi Pappu",
+            "email_id": "mpappu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mansa-Devi-Pappu$$MTIwMDA0"
+          },
+          {
+            "name": "Milan Kumar Dholey",
+            "email_id": "mdholey@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Milan-Kumar-Dholey$$NTAyMjY0"
+          },
+          {
+            "name": "Mohan Krishna S.",
+            "email_id": "msamantu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mohan-Krishna-S-$$MTkxMQ=="
+          },
+          {
+            "name": "Mrudula Owk",
+            "email_id": "mowk@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mrudula-Owk$$NTAxNjc4"
+          },
+          {
+            "name": "Murali Krishna Muddada",
+            "email_id": "mmuddada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Murali-Krishna-Muddada$$NTAyMDg1"
+          },
+          {
+            "name": "N V R Swarup Kumar Javvadi",
+            "email_id": "sjavvadi2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=N-V-R-Swarup-Kumar-Javvadi$$NTAxODY5"
+          },
+          {
+            "name": "N V Rajareddy Goluguri",
+            "email_id": "ngolugur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=N-V-Rajareddy-Goluguri$$NTAxNTI5"
+          },
+          {
+            "name": "Naga Jyothi P.",
+            "email_id": "npothaba@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naga-Jyothi-P-$$MTkxMw=="
+          },
+          {
+            "name": "Naga Soujanya K.",
+            "email_id": "sketha@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naga-Soujanya-K-$$NDEzNQ=="
+          },
+          {
+            "name": "Nagatej Dasari",
+            "email_id": "ndasari2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nagatej-Dasari$$NTAyNjAw"
+          },
+          {
+            "name": "Nagul Shaik",
+            "email_id": "nshaik3@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nagul-Shaik$$NTAyMjQ3"
+          },
+          {
+            "name": "Neelima Eadha",
+            "email_id": "neadha@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Neelima-Eadha$$MTMyNA=="
+          },
+          {
+            "name": "Neelima Santoshi K.",
+            "email_id": "nkoragan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Neelima-Santoshi-K-$$MTM0OA=="
+          },
+          {
+            "name": "Nitalaksheswara Rao Kolukula",
+            "email_id": "nkolukul@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nitalaksheswara-Rao-Kolukula$$NTAxNjI0"
+          },
+          {
+            "name": "Padmaja M.",
+            "email_id": "pmadugul@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Padmaja-M-$$MTMwOQ=="
+          },
+          {
+            "name": "Prajna Paramita Pradhan",
+            "email_id": "ppradhan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prajna-Paramita-Pradhan$$NTAyMDM3"
+          },
+          {
+            "name": "Prasad Kaviti",
+            "email_id": "pkaviti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prasad-Kaviti$$NTAyMDQw"
+          },
+          {
+            "name": "Prasada Rao Karu",
+            "email_id": "pkaru@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Prasada-Rao-Karu$$NTAxNDE5"
+          },
+          {
+            "name": "Praveen Gupta",
+            "email_id": "pgupta@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Praveen-Gupta$$NTAxMjc1"
+          },
+          {
+            "name": "Praveena P.",
+            "email_id": "ppothina@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Praveena-P-$$MTM2MQ=="
+          },
+          {
+            "name": "Raghuram K.",
+            "email_id": "rkarla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Raghuram-K-$$MTMzOA=="
+          },
+          {
+            "name": "RAJA KOTI BADUGU",
+            "email_id": "rbadugu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=RAJA-KOTI-BADUGU$$MTIwMDMz"
+          },
+          {
+            "name": "Raja Mani M.",
+            "email_id": "rmummidi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Raja-Mani-M-$$MTMzMA=="
+          },
+          {
+            "name": "Rajendra Prasad Kalapala",
+            "email_id": "rkalapal@gitam.edu",
+            "link": "rkalapal@gitam.edu"
+          },
+          {
+            "name": "Rajesh Bandaru",
+            "email_id": "rbandaru3@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rajesh-Bandaru-$$MTM1MQ=="
+          },
+          {
+            "name": "Rama Devi Ponnaganti",
+            "email_id": "rponnaga@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rama-Devi-Ponnaganti$$MTIwMDIx"
+          },
+          {
+            "name": "Rama Krishna D.",
+            "email_id": "rdamodar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rama-Krishna-D-$$MTMzNA=="
+          },
+          {
+            "name": "Rambabu Medara",
+            "email_id": "rmedara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rambabu-Medara$$NTAxNjc3"
+          },
+          {
+            "name": "Ranajit Senko",
+            "email_id": "rsenko@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ranajit-Senko$$NTAxNTU2"
+          },
+          {
+            "name": "Ravi Gorli",
+            "email_id": "rgorli@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Gorli$$NTAyMTAx"
+          },
+          {
+            "name": "Ravi Kanth S.",
+            "email_id": "rsatapat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Kanth-S-$$MTMyMA=="
+          },
+          {
+            "name": "Rita Roy",
+            "email_id": "rroy2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rita-Roy$$NTAxOTkx"
+          },
+          {
+            "name": "S. N. V. Jitendra M.",
+            "email_id": "jmukkama@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-N-V-Jitendra-M-$$MTM2NQ=="
+          },
+          {
+            "name": "Sai Pratheek Chalamalasetty",
+            "email_id": "schalama@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sai-Pratheek-Chalamalasetty$$NTAxMTY5"
+          },
+          {
+            "name": "Sai Venkata Jayasri Angara",
+            "email_id": "jangara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sai-Venkata-Jayasri-Angara$$NTAxMTAx"
+          },
+          {
+            "name": "Sandeep Varma Kalidindi",
+            "email_id": "skalidin@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sandeep-Varma-Kalidindi-$$MTkzNg=="
+          },
+          {
+            "name": "Sandhya Devi Gogula",
+            "email_id": "sgogula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sandhya-Devi-Gogula$$NTAxMjY2"
+          },
+          {
+            "name": "Santhoshi Kumari Gantla",
+            "email_id": "sgantla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Santhoshi-Kumari-Gantla$$NTAyNTQ3"
+          },
+          {
+            "name": "Sapna Jha",
+            "email_id": "sjha@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sapna-Jha$$NTAxMjM3"
+          },
+          {
+            "name": "Sarada Nandini Sekharamahanti",
+            "email_id": "ssekhara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sarada-Nandini-Sekharamahanti$$NTAyMDg5"
+          },
+          {
+            "name": "Saraswathi Pedada",
+            "email_id": "spedada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Saraswathi-Pedada$$MTIwMDA4"
+          },
+          {
+            "name": "Sasibhushana Rao Pappu",
+            "email_id": "spappu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sasibhushana-Rao-Pappu$$NTAyMTE0"
+          },
+          {
+            "name": "Satyabrata Dash",
+            "email_id": "sdash@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Satyabrata-Dash$$NTAyMzU0"
+          },
+          {
+            "name": "Shanmuk Srinivas A.",
+            "email_id": "samiripa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shanmuk-Srinivas-A-$$MTM2Ng=="
+          },
+          {
+            "name": "Sindhu Pusarla",
+            "email_id": "spusarla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sindhu-Pusarla$$MTIwMDE5"
+          },
+          {
+            "name": "Sireesha A.",
+            "email_id": "sabotula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sireesha-A-$$MTM0Mg=="
+          },
+          {
+            "name": "Smruti Rekha Das",
+            "email_id": "sdas5@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Smruti-Rekha-Das$$NTAyMDQ0"
+          },
+          {
+            "name": "Soujanya B.",
+            "email_id": "sbuddhar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Soujanya-B-$$MTMwNg=="
+          },
+          {
+            "name": "Soujanya Duvvi",
+            "email_id": "sduvvi3@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Soujanya-Duvvi$$NTAxNTQx"
+          },
+          {
+            "name": "Sravani Andavarapu",
+            "email_id": "sandavar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sravani-Andavarapu$$NTAyNTQ2"
+          },
+          {
+            "name": "Sreekanth Puli",
+            "email_id": "spuli@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sreekanth-Puli$$NTAyMjcz"
+          },
+          {
+            "name": "Sri Venkata Praneel Ankireddy",
+            "email_id": "pankired@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sri-Venkata-Praneel-Ankireddy$$MTM1Mg=="
+          },
+          {
+            "name": "Sridevi Banavathu",
+            "email_id": "sbanavat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sridevi-Banavathu$$NTAxMTY4"
+          },
+          {
+            "name": "Srinivasa Chakravarthi Lade",
+            "email_id": "slade@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Chakravarthi-Lade$$MTIwMDM5"
+          },
+          {
+            "name": "Srinivasa Rao Gadu",
+            "email_id": "sgadu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-Gadu$$MTIwMDA1"
+          },
+          {
+            "name": "Stephen Neal Joshua Eali",
+            "email_id": "seali@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Stephen-Neal-Joshua-Eali$$NTAyMDU2"
+          },
+          {
+            "name": "Suneetha D.",
+            "email_id": "sdwarapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suneetha-D-$$MTMwNw=="
+          },
+          {
+            "name": "Suneetha Merugula",
+            "email_id": "smerugul@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suneetha-Merugula$$NTAxNTY2"
+          },
+          {
+            "name": "Suraj Aravind Bollapragada",
+            "email_id": "sbollapr@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suraj-Aravind-Bollapragada$$MTIwMDM1"
+          },
+          {
+            "name": "Sureshkumar Pemmada",
+            "email_id": "spemmada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sureshkumar-Pemmada$$NTAyMDIx"
+          },
+          {
+            "name": "Swarnalatha Prathipati",
+            "email_id": "sprathip2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Swarnalatha-Prathipati$$MTIwMDEy"
+          },
+          {
+            "name": "Taraka Rama Rao G.",
+            "email_id": "tgottapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Taraka-Rama-Rao-G-$$MTMyNw=="
+          },
+          {
+            "name": "V S V S Murthy",
+            "email_id": "mvadlama@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-S-V-S-Murthy$$MTIwMDA2"
+          },
+          {
+            "name": "V Venkateswara Rao Peddireddy",
+            "email_id": "vpeddire2@gitam.edu",
+            "link": "vpeddire2@gitam.edu"
+          },
+          {
+            "name": "Vani Jayasri Geddada",
+            "email_id": "vgeddada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vani-Jayasri-Geddada$$MTIwMDEw"
+          },
+          {
+            "name": "Veera Bhadra Rao D.",
+            "email_id": "vdamiset@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Veera-Bhadra-Rao-D-$$MTkwMw=="
+          },
+          {
+            "name": "Venkata Lakshmi S.",
+            "email_id": "lsanapal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Lakshmi-S-$$MTkxMA=="
+          },
+          {
+            "name": "Venkata Ramana M.",
+            "email_id": "vmancha@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Ramana-M-$$MTMxNg=="
+          },
+          {
+            "name": "Venkata Sivanarayana G.",
+            "email_id": "sgayyi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Sivanarayana-G-$$MTkzOQ=="
+          },
+          {
+            "name": "Venkateswararao Kuna",
+            "email_id": "vkuna@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkateswararao-Kuna$$NTAyNDI0"
+          },
+          {
+            "name": "Venkateswarlu K",
+            "email_id": "vkondiba@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkateswarlu-K$$MTMyMQ=="
+          },
+          {
+            "name": "Vijaya Murala",
+            "email_id": "vmurala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vijaya-Murala$$MTIwMDE4"
+          },
+          {
+            "name": "Vijaya Bharathi Manjeti",
+            "email_id": "vmanjeti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vijaya-Bharathi-Manjeti$$NTAyMzU1"
+          },
+          {
+            "name": "Vikram Dhiman",
+            "email_id": "vdhiman@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vikram-Dhiman$$NTAyMDIw"
+          },
+          {
+            "name": "Yasoda Devi Gondi",
+            "email_id": "ygondi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Yasoda-Devi-Gondi$$NTAxMjAz"
+          },
+          {
+            "name": "Yaswanth Amanapu",
+            "email_id": "yamanapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Yaswanth-Amanapu$$MTIwMDAx"
+          }
+        ]
+      }
+    ]
+  },
+  "GITAM School of Science": {
+    "school_id": "gss",
+    "school_name": "GITAM SCHOOL OF SCIENCE",
+    "head_of_the_school": {
+      "name": "Vedavathi K.",
+      "email_id": "vkatneni@gitam.edu",
+      "link": "https://www.gitam.edu/faculty-profile?info=Vedavathi-K-$$NDExMw=="
+    },
+    "departments": [
+      {
+        "department_name": "APPLIED MATHEMATICS",
+        "department_id": "gss-applied-mathematics",
+        "head_of_the_department": [
+          {
+            "name": "Sireesha V",
+            "email_id": "sveerama@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sireesha-V$$NDAwNg=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Santhanam Gopalkrishnan",
+            "email_id": "sgopalkr@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Santhanam-Gopalkrishnan$$NTAyNjcw"
+          },
+          {
+            "name": "Vikas Bist",
+            "email_id": "vbist@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vikas-Bist$$NTAyMTY1"
+          },
+          {
+            "name": "Chandra Sekhar A.",
+            "email_id": "cakkaped@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chandra-Sekhar-A-$$MjUwMg=="
+          },
+          {
+            "name": "Ravi Sankar N",
+            "email_id": "rnowpada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Sankar-N$$NDAwMw=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Eswara Rao S",
+            "email_id": "esathi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Eswara-Rao-S$$NDEyMw=="
+          },
+          {
+            "name": "Lakshmi Narasamma V.",
+            "email_id": "https://www.gitam.edu/faculty-profile?info=Lakshmi-Narasamma-V-$$MjUxNA==",
+            "link": "lvellank@gitam.edu"
+          },
+          {
+            "name": "Pragathi C.",
+            "email_id": "pchagant@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Pragathi-C-$$MjUxNg=="
+          },
+          {
+            "name": "S. R. Chandra Muthy P.",
+            "email_id": "dparamse@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-R-Chandra-Muthy-P-$$MjUxNQ=="
+          },
+          {
+            "name": "Sundarayya P.",
+            "email_id": "sperumal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sundarayya-P-$$MjU0OA=="
+          },
+          {
+            "name": "Suneetha Ch.",
+            "email_id": "schivuku@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suneetha-Ch-$$MjUzNg=="
+          },
+          {
+            "name": "V. R. Kameswari M.",
+            "email_id": "kmukkavi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-R-Kameswari-M-$$MjU1MA=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Aruna Kumari K.",
+            "email_id": "akatraga@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Aruna-Kumari-K-$$MjUzOA=="
+          },
+          {
+            "name": "Biswajit R.",
+            "email_id": "brath@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Biswajit-R-$$NDE4OA=="
+          },
+          {
+            "name": "Hamilton Samraj Santhakumar",
+            "email_id": "hsanthak@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Hamilton-Samraj-Santhakumar$$NTAyNjYz"
+          },
+          {
+            "name": "Jogarao Gunda",
+            "email_id": "jgunda@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jogarao-Gunda$$NzAwMjkz"
+          },
+          {
+            "name": "Jyothsna Kanithi",
+            "email_id": "jkanithi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jyothsna-Kanithi$$NTAyNTg3"
+          },
+          {
+            "name": "Mani Sandeep Kumar M.",
+            "email_id": "mmylapal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mani-Sandeep-Kumar-M-$$MjU0OQ=="
+          },
+          {
+            "name": "Naga Lakshmi G.",
+            "email_id": "ngangupa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naga-Lakshmi-G-$$MjUzNw=="
+          },
+          {
+            "name": "Neelima D.",
+            "email_id": "ndavulur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Neelima-D-$$MjU1NQ=="
+          },
+          {
+            "name": "Phani Bushan Rao P.",
+            "email_id": "ppeddi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Phani-Bushan-Rao-P-$$MjU1OA=="
+          },
+          {
+            "name": "Rajendra Kumar K.",
+            "email_id": "rkona2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rajendra-Kumar-K-$$MjU1Ng=="
+          },
+          {
+            "name": "Ramesh S.",
+            "email_id": "rsiriset@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramesh-S-$$MjU0Nw=="
+          },
+          {
+            "name": "Ramnarayan Mondal",
+            "email_id": "rmondal2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramnarayan-Mondal-$$NTAxNTg0"
+          },
+          {
+            "name": "Ramya Nemani",
+            "email_id": "rnemani@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramya-Nemani$$NTAyNTgw"
+          },
+          {
+            "name": "Ravi Kumar Bora",
+            "email_id": "rbora@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Kumar-Bora$$MjU0MA=="
+          },
+          {
+            "name": "Simhachalam B.",
+            "email_id": "sboddana@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Simhachalam-B-$$MjU0NQ=="
+          },
+          {
+            "name": "Sreedhar S.",
+            "email_id": "ssobhana@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sreedhar-S-$$NDE5MA=="
+          },
+          {
+            "name": "Sri Hari Krishna P.",
+            "email_id": "hpillutl@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sri-Hari-Krishna-P-$$NDAwNQ=="
+          },
+          {
+            "name": "Sri Lakshmi T.",
+            "email_id": "stalasil@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sri-Lakshmi-T-$$MjU0Ng=="
+          },
+          {
+            "name": "Sridhar A.",
+            "email_id": "sakiri@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sridhar-A-$$MTAyMDc="
+          },
+          {
+            "name": "Surendra T.",
+            "email_id": "stalari@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Surendra-T-$$MjU0Mg=="
+          },
+          {
+            "name": "Umaprasada Rao Bodasingi",
+            "email_id": "pbodasin@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Umaprasada-Rao-Bodasingi$$NTAwMDE0"
+          },
+          {
+            "name": "V.S.Sireesha K.",
+            "email_id": "skuppili2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-S-Sireesha-K-$$MjU1NA=="
+          },
+          {
+            "name": "Vijayakumar P.",
+            "email_id": "vprathi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vijayakumar-P-$$MjU0MQ=="
+          }
+        ]
+      },
+      {
+        "department_name": "BIOCHEMISTRY / BIOINFORMATICS",
+        "department_id": "gss-biochemistry",
+        "head_of_the_department": [
+          {
+            "name": "Vijaya Rachel K.",
+            "email_id": "vkap@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vijaya-Rachel-K-$$NDAyMA=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Rama Rao M",
+            "email_id": "rmalla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rama-Rao-M$$NDAyMg=="
+          },
+          {
+            "name": "Surekha Ch",
+            "email_id": "schalla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Surekha-Ch$$NDAxOQ=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Nageswara Rao Reddy N.",
+            "email_id": "nneelapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nageswara-Rao-Reddy-N-$$NDA0Mg=="
+          },
+          {
+            "name": "Santhi Latha P.",
+            "email_id": "dpandran@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Santhi-Latha-P-$$NDA0Nw=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Hanumantha Rao Kongara",
+            "email_id": "hkongara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Hanumantha-Rao-Kongara$$NTAyMDI1"
+          },
+          {
+            "name": "Krishna Chaitanya A.",
+            "email_id": "camajala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Krishna-Chaitanya-A-$$NDA0Mw=="
+          },
+          {
+            "name": "Niranjan Ashok Kambi",
+            "email_id": "nkambi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Niranjan-Ashok-Kambi$$NTAyMTkw"
+          },
+          {
+            "name": "Rajdeep Das",
+            "email_id": "rdas2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rajdeep-Das$$NTAyMjYw"
+          },
+          {
+            "name": "Shahnaz Rahman Lone",
+            "email_id": "slone@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shahnaz-Rahman-Lone$$NTAyMTg4"
+          },
+          {
+            "name": "Vasudevaraju P.",
+            "email_id": "vpadmara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vasudevaraju-P-$$NDA0OA=="
+          }
+        ]
+      },
+      {
+        "department_name": "ENVIRONMENTAL SCIENCE",
+        "department_id": "gss-environmental-science",
+        "head_of_the_department": [
+          {
+            "name": "Saritha V.",
+            "email_id": "svara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Saritha-V-$$NDIwNQ=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Rama Krishna Ch",
+            "email_id": "rchintal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rama-Krishna-Ch$$NDIwMw=="
+          },
+          {
+            "name": "Srinivas N.",
+            "email_id": "snamudur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-N-$$NDIwMQ=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Suresh Kumar K.",
+            "email_id": "skolli@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suresh-Kumar-K-$$NDIwNw=="
+          },
+          {
+            "name": "V D N Kumar A",
+            "email_id": "vabbaraj@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-D-N-Kumar-A$$MjM0NA=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Adarsh Kumar",
+            "email_id": "akumar15@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Adarsh-Kumar$$NTAyNjEw"
+          },
+          {
+            "name": "Bhavya Kavitha Dwarapureddi",
+            "email_id": "bdwarapu@gitam.edu",
+            "link": "bdwarapu@gitam.edu"
+          },
+          {
+            "name": "Gopamma Daka",
+            "email_id": "gdaka@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Gopamma-Daka$$NTAyNDk1"
+          },
+          {
+            "name": "Harish Prakash",
+            "email_id": "hprakash@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Harish-Prakash$$NTAyNjA2"
+          },
+          {
+            "name": "Kiranmai Reddy M.",
+            "email_id": "kmajji@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kiranmai-Reddy-M-$$MjMzNQ=="
+          },
+          {
+            "name": "Madhana Sekhar Kalva",
+            "email_id": "mkalva@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Madhana-Sekhar-Kalva$$NTAyNTQ4"
+          },
+          {
+            "name": "Manoj Panayamthatta Rayaroth",
+            "email_id": "mrayarot@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Manoj-Panayamthatta-Rayaroth$$NTAyNjIz"
+          },
+          {
+            "name": "Satyanarayana Yalakala",
+            "email_id": "syalakal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Satyanarayana-Yalakala$$NDIxNA=="
+          },
+          {
+            "name": "V Santhee Devi K",
+            "email_id": "skarri2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-Santhee-Devi-K$$MjMzNg=="
+          }
+        ]
+      },
+      {
+        "department_name": "COMPUTER SCIENCE",
+        "department_id": "gss-computer-science",
+        "head_of_the_department": [
+          {
+            "name": "Uma Devi T.",
+            "email_id": "utatavar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Uma-Devi-T-$$NDExNw=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Naga Lakshmi V.",
+            "email_id": "nvadlama@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naga-Lakshmi-V-$$NDExOQ=="
+          },
+          {
+            "name": "Vedavathi K.",
+            "email_id": "vkatneni@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vedavathi-K-$$NDExMw=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "B. Satya Sai Vani V.",
+            "email_id": "svedula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=B-Satya-Sai-Vani-V-$$NDExNQ=="
+          },
+          {
+            "name": "Ravi Kumar B",
+            "email_id": "rballeda@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Kumar-B$$NDEyMQ=="
+          },
+          {
+            "name": "Sri Venkatesh Muktevi",
+            "email_id": "smuktevi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sri-Venkatesh-Muktevi$$NDExNg=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Anusha Nallamalla",
+            "email_id": "anallama@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anusha-Nallamalla$$NTAxMzcw"
+          },
+          {
+            "name": "Babu Rao G.",
+            "email_id": "bgumpina@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Babu-Rao-G-$$NDEzNw=="
+          },
+          {
+            "name": "Nasir MD",
+            "email_id": "nmd@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nasir-MD$$NTAyMzg4"
+          },
+          {
+            "name": "Niharika Yeduvakula",
+            "email_id": "nyeduvak@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Niharika-Yeduvakula$$NTAyNDk3"
+          },
+          {
+            "name": "Padma Surakasi",
+            "email_id": "psurakas@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Padma-Surakasi-$$NTAxMjAy"
+          },
+          {
+            "name": "Ramesh Naidu Goda",
+            "email_id": "rgoda@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramesh-Naidu-Goda$$NTAxMzM4"
+          },
+          {
+            "name": "Santosh Kumar Uppada",
+            "email_id": "suppada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Santosh-Kumar-Uppada$$NTAyMzI0"
+          },
+          {
+            "name": "Satya Aruna Varanasi",
+            "email_id": "svaranas@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Satya-Aruna-Varanasi$$NTAyNDk4"
+          },
+          {
+            "name": "Satyanarayana Botsa",
+            "email_id": "sbotsa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Satyanarayana-Botsa-$$NTAxMzU0"
+          },
+          {
+            "name": "Sesha Shayee M.",
+            "email_id": "smaruvad@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sesha-Shayee-M-$$NDEyNA=="
+          },
+          {
+            "name": "Shahid Shaik",
+            "email_id": "sshaik4@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shahid-Shaik$$NTAxNDU2"
+          },
+          {
+            "name": "Srinivasa Rao B.",
+            "email_id": "sbheeset@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-B-$$NDEzMA=="
+          },
+          {
+            "name": "Suresh Kumar M.",
+            "email_id": "smaddila@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suresh-Kumar-M-$$NDEzNg=="
+          },
+          {
+            "name": "Vanitha K.",
+            "email_id": "vkakollu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vanitha-K-$$NDEyOA=="
+          },
+          {
+            "name": "Yasudha K.",
+            "email_id": "ykomali@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Yasudha-K-$$NDEzNA=="
+          }
+        ]
+      },
+
+      {
+        "department_name": "ELECTRONICS AND PHYSICS",
+        "department_id": "gss-electronics-and-physics",
+        "head_of_the_department": [
+          {
+            "name": "Chaitanya Varma M.",
+            "email_id": "cmudunur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chaitanya-Varma-M-$$MjY1Mw=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "V. Ramesh V K",
+            "email_id": "rkocharl@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-Ramesh-V-K$$MjYxMw=="
+          },
+          {
+            "name": "Kavitha C.",
+            "email_id": "kchandu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kavitha-C-$$NDE3OA=="
+          },
+          {
+            "name": "Madhava Prasad D",
+            "email_id": "mdasari@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Madhava-Prasad-D$$MjYzOA=="
+          },
+          {
+            "name": "Ravi Kumar M.",
+            "email_id": "rmuktine@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Kumar-M-$$MjYxMg=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Chandrasekhar A.",
+            "email_id": "cangani@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chandrasekhar-A-$$NDE5Mw=="
+          },
+          {
+            "name": "Durga rao T.",
+            "email_id": "dtadiset@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Durga-rao-T-$$NDIxNw=="
+          },
+          {
+            "name": "G. Krishna P.",
+            "email_id": "gpodagat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=G-Krishna-P-$$NDE5MQ=="
+          },
+          {
+            "name": "Jagadeesh Chandra Venkata Sangaraju",
+            "email_id": "jsangara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jagadeesh-Chandra-Venkata-Sangaraju$$NTAxMzgx"
+          },
+          {
+            "name": "Kanaka Raju P",
+            "email_id": "kpappala@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kanaka-Raju-P$$NDE4MA=="
+          },
+          {
+            "name": "Kumar Raju Mukhi",
+            "email_id": "kmukhi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kumar-Raju-Mukhi$$NTAxMjEy"
+          },
+          {
+            "name": "Lakshun naidu K.",
+            "email_id": "lkuna@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lakshun-naidu-K-$$NDIxMg=="
+          },
+          {
+            "name": "Mani Kumar Ch.",
+            "email_id": "mchimpin@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Mani-Kumar-Ch-$$NDE4Mw=="
+          },
+          {
+            "name": "Naga Venkata Ramesh Majeti",
+            "email_id": "rmajeti@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naga-Venkata-Ramesh-Majeti$$MjYzMg=="
+          },
+          {
+            "name": "Rajesh Kumar B.",
+            "email_id": "rborra2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rajesh-Kumar-B-$$MjY0Nw=="
+          },
+          {
+            "name": "Ramesh S",
+            "email_id": "rsingamp@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramesh-S$$MzAwMzY="
+          },
+          {
+            "name": "Ravi Shankar Kumar Ch.",
+            "email_id": "schavali@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Shankar-Kumar-Ch-$$NDE3OQ=="
+          },
+          {
+            "name": "S. Ramachandra Murty K.",
+            "email_id": "mkokkira@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-Ramachandra-Murty-K-$$MjYxMQ=="
+          },
+          {
+            "name": "Saikiran V.",
+            "email_id": "svadaval@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Saikiran-V-$$NDIxMw=="
+          },
+          {
+            "name": "Sattibabu B.",
+            "email_id": "sbhumire@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sattibabu-B-$$NDE5Nw=="
+          },
+          {
+            "name": "Spandana B.",
+            "email_id": "sbaggam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Spandana-B-$$MjY1MA=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Bheeshma Pratap Singh",
+            "email_id": "bsingh@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bheeshma-Pratap-Singh$$NTAxMjQy"
+          },
+          {
+            "name": "MSSRKN Sarma",
+            "email_id": "rsarma@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=MSSRKN-Sarma-$$MjY0MQ=="
+          },
+          {
+            "name": "Ramesh Kumar Kamadurai",
+            "email_id": "rkamadur@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ramesh-Kumar-Kamadurai$$NTAxMTg1"
+          },
+          {
+            "name": "Srinivas D.",
+            "email_id": "sdogipar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivas-D-$$MjYzNQ=="
+          },
+          {
+            "name": "Srinivasa Rao B.",
+            "email_id": "sbonthul@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-B-$$MjYzMQ=="
+          },
+          {
+            "name": "Tejeswara Rao P.",
+            "email_id": "tponnada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Tejeswara-Rao-P-$$MjYzNw=="
+          },
+          {
+            "name": "Ugendar Kodam",
+            "email_id": "ukodam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ugendar-Kodam$$NTAxMjM2"
+          },
+          {
+            "name": "Vasundhara B.",
+            "email_id": "vbalired@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vasundhara-B-$$MjY0Mg=="
+          },
+          {
+            "name": "Venkata Koti Reddy C.",
+            "email_id": "vchagam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Koti-Reddy-C-$$MjY1Mg=="
+          }
+        ]
+      },
+      {
+        "department_name": "CHEMISTRY",
+        "department_id": "gss-chemistry",
+        "head_of_the_department": [
+          {
+            "name": "Sreenivasa Rao Battula",
+            "email_id": "sbattula2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sreenivasa-Rao-Battula$$MjMxMQ=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "Anima Sunil D.",
+            "email_id": "adadhich@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anima-Sunil-D-$$NDA4NA=="
+          },
+          {
+            "name": "Anjali Jha",
+            "email_id": "ajhamani@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anjali-Jha$$NDA4Nw=="
+          },
+          {
+            "name": "V. L. N. S. H. Hariharan A.",
+            "email_id": "hagastya@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-L-N-S-H-Hariharan-A-$$MjMwMg=="
+          },
+          {
+            "name": "Veera Raghava Sarma Ganapavarapu",
+            "email_id": "sganapav@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Veera-Raghava-Sarma-Ganapavarapu$$MjMxMw=="
+          },
+          {
+            "name": "Venkata Satya Venu Gopal Nutulapati",
+            "email_id": "vnutulap@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Satya-Venu-Gopal-Nutulapati$$MjMxMg=="
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Anik Sen",
+            "email_id": "asen@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anik-Sen$$NTAwMDI3"
+          },
+          {
+            "name": "Atanu Bhattacharya",
+            "email_id": "abhattac3@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Atanu-Bhattacharya-$$NTAyMDc4"
+          },
+          {
+            "name": "Atanu Jana",
+            "email_id": "ajana2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Atanu-Jana-$$NzAwMTkx"
+          },
+          {
+            "name": "Harihara Padhy",
+            "email_id": "hpadhy@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Harihara-Padhy$$NTAxNDg3"
+          },
+          {
+            "name": "Suresh M.",
+            "email_id": "smaddila2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suresh-M-$$NDE5OQ=="
+          },
+          {
+            "name": "V. N. Suresh Reddy K.",
+            "email_id": "skachire@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-N-Suresh-Reddy-K-$$MjM1NA=="
+          },
+          {
+            "name": "Vaikunta Rao L.",
+            "email_id": "vlakinan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vaikunta-Rao-L-$$NDA4OA=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Alice Rinky R.",
+            "email_id": "arobert@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Alice-Rinky-R-$$MjM0MQ=="
+          },
+          {
+            "name": "Bala Krishna K.",
+            "email_id": "bkolli@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bala-Krishna-K-$$MTAyOTU="
+          },
+          {
+            "name": "Gowri Sankar R.",
+            "email_id": "greddipa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Gowri-Sankar-R-$$MjM1NQ=="
+          },
+          {
+            "name": "Himavathi G.",
+            "email_id": "hganja@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Himavathi-G-$$MjMzMw=="
+          },
+          {
+            "name": "Kishore R.",
+            "email_id": "kravada@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kishore-R-$$NDE4Nw=="
+          },
+          {
+            "name": "Lakshman S.",
+            "email_id": "lshaik@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lakshman-S-$$MjMzNA=="
+          },
+          {
+            "name": "Lakshmi B.",
+            "email_id": "lbaviset@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lakshmi-B-$$MjMzNw=="
+          },
+          {
+            "name": "Murali Dhar P.",
+            "email_id": "mpamerla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Murali-Dhar-P-$$MjM0Mg=="
+          },
+          {
+            "name": "Partha Laskar",
+            "email_id": "plaskar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Partha-Laskar$$NTAyNTEw"
+          },
+          {
+            "name": "Rahul Shukla",
+            "email_id": "rshukla2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rahul-Shukla$$NTAxODI4"
+          },
+          {
+            "name": "Ram Mohan Rao K.",
+            "email_id": "rkuppili@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ram-Mohan-Rao-K-$$MjM0NQ=="
+          },
+          {
+            "name": "Ravi Kumar Ganta",
+            "email_id": "rganta@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravi-Kumar-Ganta$$NTAwMDEx"
+          },
+          {
+            "name": "Sailaja Nambaaru",
+            "email_id": "snambaar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sailaja-Nambaaru$$NTAxMTk5"
+          },
+          {
+            "name": "Samatha Bevara",
+            "email_id": "sbevara@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Samatha-Bevara$$NTAxOTcx"
+          },
+          {
+            "name": "Samuel AnandAndrews B.",
+            "email_id": "sbethapu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Samuel-AnandAndrews-B-$$MjM0Ng=="
+          },
+          {
+            "name": "Santhosh Kumar A.",
+            "email_id": "salla2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Santhosh-Kumar-A-$$MzAxMTY="
+          },
+          {
+            "name": "Shibaji Basak",
+            "email_id": "sbasak2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shibaji-Basak$$NTAyMDk4"
+          },
+          {
+            "name": "Sivaramakrishna Dokku",
+            "email_id": "sdokku@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sivaramakrishna-Dokku$$NTAyMTk3"
+          },
+          {
+            "name": "Srinivasa Rao G.",
+            "email_id": "sgolagan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinivasa-Rao-G-$$NDA5MQ=="
+          },
+          {
+            "name": "Sudhakar Ch.",
+            "email_id": "schintak@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sudhakar-Ch-$$MjMzMg=="
+          },
+          {
+            "name": "Suman Das",
+            "email_id": "sdas6@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Suman-Das$$NTAyMjEx"
+          },
+          {
+            "name": "SuryaKala D.",
+            "email_id": "sduvvuri@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=SuryaKala-D-$$NDA5MA=="
+          },
+          {
+            "name": "V. Subrahmanyam Naidu P.",
+            "email_id": "pparimi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-Subrahmanyam-Naidu-P-$$MjM0MA=="
+          },
+          {
+            "name": "Vandana V.",
+            "email_id": "vvemulap@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vandana-V-$$MjM1Ng=="
+          },
+          {
+            "name": "Veera Swami B.",
+            "email_id": "vboddu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Veera-Swami-B-$$MjMzOQ=="
+          }
+        ]
+      }
+    ]
+  },
+  "GITAM School of Law": {
+    "school_id": "gsl",
+    "school_name": "GITAM School of Law",
+    "departments": [
+      {
+        "department_name": "GITAM SCHOOL OF LAW",
+        "department_id": "gsl-law",
+        "head_of_the_department": [
+          {
+            "name": "Anita Rao Raviwada",
+            "email_id": "araviwad@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anita-Rao-Raviwada$$NDUxOQ=="
+          }
+        ],
+        "professors": [
+          {
+            "name": "",
+            "email_id": "",
+            "school_name": "",
+            "link": ""
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Ganesh Kumar Dendukuri",
+            "email_id": "gdenduku@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ganesh-Kumar-Dendukuri$$NTAyMDg3"
+          },
+          {
+            "name": "Lakshmana Rao Chintala",
+            "email_id": "lchintal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lakshmana-Rao-Chintala$$NTAxMjUz"
+          },
+          {
+            "name": "Manu Datta",
+            "email_id": "mdatta@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Manu-Datta$$NTAyMTI2"
+          },
+          {
+            "name": "Pratima Jaggumantri",
+            "email_id": "pjegguma@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Pratima-Jaggumantri$$NTAwMDIy"
+          },
+          {
+            "name": "Uma Rao J",
+            "email_id": "ujosyula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Uma-Rao-J$$NDUwMw=="
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Appala Raju Nakkilla",
+            "email_id": "anakkill@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Appala-Raju-Nakkilla$$NTAyNjk4"
+          },
+          {
+            "name": "Astle",
+            "email_id": "asingh6@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Astle-$$NTAxNTc5"
+          },
+          {
+            "name": "Chitra Saxena Nagpal",
+            "email_id": "cnagpal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chitra-Saxena-Nagpal$$NTAwNzYx"
+          },
+          {
+            "name": "Harish Kumar Varma Rajasagi",
+            "email_id": "hrajasag@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Harish-Kumar-Varma-Rajasagi$$NTAxMzU5"
+          },
+          {
+            "name": "Lakshmi Kollu",
+            "email_id": "lkollu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lakshmi-Kollu$$NTAwMDI0"
+          },
+          {
+            "name": "Laxmi Jagannadh Mamidipalli",
+            "email_id": "lmamidip@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Laxmi-Jagannadh-Mamidipalli$$NTAyMjYy"
+          },
+          {
+            "name": "Naveen Teja Sistla",
+            "email_id": "nsistla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Naveen-Teja-Sistla$$NTAxNjg0"
+          },
+          {
+            "name": "Poornima Animi",
+            "email_id": "panimi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Poornima-Animi$$NTAxNTIy"
+          },
+          {
+            "name": "Rhea Hundal",
+            "email_id": "rhundal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rhea-Hundal$$NTAxMzYx"
+          },
+          {
+            "name": "V N S S Usha Amulya Narem",
+            "email_id": "vnarem@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-N-S-S-Usha-Amulya-Narem$$NTAxNTIz"
+          },
+          {
+            "name": "Venkata Kiran Kumar Yarijarla",
+            "email_id": "vyarijar@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Kiran-Kumar-Yarijarla$$NTAyMjYx"
+          },
+          {
+            "name": "Vijay Chittiboyina",
+            "email_id": "vchittib@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vijay-Chittiboyina$$NTAxMzYw"
+          }
+        ]
+      }
+    ]
+  },
+  "GITAM School of Physiotherapy": {
+    "school_id": "gsp",
+    "school_name": "GITAM School of  Physiotherapy",
+    "departments": [
+      {
+        "department_name": "GITAM SCHOOL OF PHYSIOTHERAPY",
+        "department_id": "gsp-physiotherapy",
+        "head_of_the_department": [
+          {
+            "name": "Ranganath Gangavelli",
+            "email_id": "rgangave@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ranganath-Gangavelli$$NTAxMjIy"
+          }
+        ],
+        "professors": [
+          {
+            "name": "Ranganath Gangavelli",
+            "email_id": "rgangave@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ranganath-Gangavelli$$NTAxMjIy"
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Satish Kumar Anumula",
+            "email_id": "sanumula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Satish-Kumar-Anumula-$$NTAxOTc2"
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Anishma Maria Jose Chungath",
+            "email_id": "achungat@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Anishma-Maria-Jose-Chungath$$NTAxMTg0"
+          },
+          {
+            "name": "Sree Vamsi Gokarakonda",
+            "email_id": "sgokarak@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sree-Vamsi-Gokarakonda$$NTAyMDU3"
+          },
+          {
+            "name": "Srinadh Katragadda",
+            "email_id": "skatradg@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Srinadh-Katragadda-$$NTAxOTg0"
+          },
+          {
+            "name": "Vineel Pedapenki",
+            "email_id": "vpedapen@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vineel-Pedapenki$$NTAxMjE4"
+          }
+        ]
+      }
+    ]
+  },
+  "GITAM School of Nursing": {
+    "school_id": "gsn",
+    "school_name": "GITAM School of Nursing",
+    "departments": [
+      {
+        "department_name": "GITAM SCHOOL OF NURSING",
+        "department_id": "gin-nursing",
+        "head_of_the_department": [
+          {
+            "name": "Venkatesan Balu",
+            "email_id": "vbalu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkatesan-Balu$$NTAyNDY2"
+          }
+        ],
+        "professors": [
+          {
+            "name": "",
+            "email_id": "",
+            "school_name": "",
+            "link": ""
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Lavanya Ch.",
+            "email_id": "lchippad@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lavanya-Ch-$$ODAwMDg="
+          },
+          {
+            "name": "Ratna Tadi",
+            "email_id": "rtadi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ratna-Tadi$$NTAxNjI5"
+          },
+          {
+            "name": "S V L Padma Kumari Sabbavarapu",
+            "email_id": "vsabbava@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=S-V-L-Padma-Kumari-Sabbavarapu$$NTAxNjMw"
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Jhansi Lakshmi A.",
+            "email_id": "jappasam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Jhansi-Lakshmi-A-$$ODAwMDU="
+          },
+          {
+            "name": "Malathi Thota",
+            "email_id": "mthota@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Malathi-Thota-$$NTAwMjI2"
+          },
+          {
+            "name": "Sofia Pulugujju",
+            "email_id": "spuluguj@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sofia-Pulugujju-$$NTAyMDI0"
+          },
+          {
+            "name": "Sri Valli D.",
+            "email_id": "sdeddam@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sri-Valli-D-$$ODAwMDk="
+          },
+          {
+            "name": "Usha Sanaboina",
+            "email_id": "usanaboi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Usha-Sanaboina$$NTAwMTU5"
+          }
+        ]
+      }
+    ]
+  },
+  "GITAM School of Architecture": {
+    "school_id": "gsa",
+    "school_name": "GITAM School of Architecture",
+    "departments": [
+      {
+        "department_name": "GITAM SCHOOL OF ARCHITECTURE",
+        "department_id": "gsa-architecture",
+        "head_of_the_department": [
+          {
+            "name": "Vibhuti Sachdev",
+            "email_id": "vsachdev@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Vibhuti-Sachdev-$$NTAyMjU4"
+          }
+        ],
+        "professors": [
+          {
+            "name": "Venkata Krishna Sudhakar Devaguptapu",
+            "email_id": "sdevagup@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Krishna-Sudhakar-Devaguptapu$$NTAyNDYz"
+          },
+          {
+            "name": "Venkata Subba Rao Tata",
+            "email_id": "vtata3@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Venkata-Subba-Rao-Tata$$NTAyNDc0"
+          }
+        ],
+        "associate_professors": [
+          {
+            "name": "Amrita Shukla",
+            "email_id": "ashukla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Amrita-Shukla$$NTAxOTk2"
+          },
+          {
+            "name": "Bikash P.",
+            "email_id": "bpatra@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Bikash-P-$$NTUzNg=="
+          },
+          {
+            "name": "Dibya Jivan P.",
+            "email_id": "dpati@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Dibya-Jivan-P-$$NTU0MA=="
+          },
+          {
+            "name": "Kasi Krishna",
+            "email_id": "kkasi@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Kasi-Krishna$$NTUyNw=="
+          },
+          {
+            "name": "Praveen Kumar B.",
+            "email_id": "pbotu@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Praveen-Kumar-B-$$NTUxOA=="
+          },
+          {
+            "name": "Ravindra Patnayaka",
+            "email_id": "rpatnaya@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Ravindra-Patnayaka$$NTUwMw=="
+          },
+          {
+            "name": "Rupa J.",
+            "email_id": "rjawal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Rupa-J-$$NTU0MQ=="
+          },
+          {
+            "name": "Santosh Kumar Thainana",
+            "email_id": "sthainan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Santosh-Kumar-Thainana$$MTE2NQ=="
+          },
+          {
+            "name": "Shivaji Varma P.",
+            "email_id": "spatta@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shivaji-Varma-P-$$NTUxOQ=="
+          },
+          {
+            "name": "Sudhir Kumar Pasala",
+            "email_id": "spasala2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sudhir-Kumar-Pasala$$NTAxNzM3"
+          }
+        ],
+        "assistant_professors": [
+          {
+            "name": "Chitti Babu Kapuganti",
+            "email_id": "ckapugan@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Chitti-Babu-Kapuganti$$MTE4Ng=="
+          },
+          {
+            "name": "Divya Rachakonda",
+            "email_id": "drachako@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Divya-Rachakonda-$$NTAwMjAz"
+          },
+          {
+            "name": "Durgesh Nandan Patro",
+            "email_id": "dpatro@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Durgesh-Nandan-Patro$$NTAxMTMw"
+          },
+          {
+            "name": "Harish A.",
+            "email_id": "harnepal@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Harish-A-$$NTUzMA=="
+          },
+          {
+            "name": "Harish T.",
+            "email_id": "hthangul@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Harish-T-$$NTU0Nw=="
+          },
+          {
+            "name": "Hema Gudla",
+            "email_id": "hgudla@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Hema-Gudla$$NTAxMjg4"
+          },
+          {
+            "name": "Lakshmi Hemantha M.",
+            "email_id": "lmallamp@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Lakshmi-Hemantha-M-$$NTUyOA=="
+          },
+          {
+            "name": "Nawin Kumar G.",
+            "email_id": "ngoray@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Nawin-Kumar-G-$$NTUyMg=="
+          },
+          {
+            "name": "P V GOPALAKRISHNA Ch.",
+            "email_id": "kchevuku@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=P-V-GOPALAKRISHNA-Ch-$$NTU0OA=="
+          },
+          {
+            "name": "Sadhana Vuddemarry",
+            "email_id": "svuddema@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sadhana-Vuddemarry$$NjAwMTkx"
+          },
+          {
+            "name": "Sai Gautham Kumar Gujjula",
+            "email_id": "sgujjula@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Sai-Gautham-Kumar-Gujjula$$NTAxODI5"
+          },
+          {
+            "name": "Satya Ravi Kishore Y",
+            "email_id": "syandamu2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Satya-Ravi-Kishore-Y$$NTAwMjA0"
+          },
+          {
+            "name": "Shanmuka Teja Vedula",
+            "email_id": "svedula2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=Shanmuka-Teja-Vedula$$NTAwMDgx"
+          },
+          {
+            "name": "Soham Mukhopadhyay",
+            "email_id": "smukhopa@gitam.edu",
+            "link": "https://www.gitam.edu/faculty/soham-mukhopadhyay"
+          },
+          {
+            "name": "V H CHATURYA B",
+            "email_id": "cbonela2@gitam.edu",
+            "link": "https://www.gitam.edu/faculty-profile?info=V-H-CHATURYA-B$$NTU0NA=="
+          }
+        ]
+      }
+    ]
+  }
+}

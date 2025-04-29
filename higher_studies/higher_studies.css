@@ -1,0 +1,278 @@
+body {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.header-custom {
+  background-color: #981f2b;
+  height: 85px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  margin: 0;
+}
+
+.logo-custom a {
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+  font-family: "Bayon", sans-serif;
+  /* padding: 20px; */
+}
+
+/* navigation bar styling */
+.navbar-custom {
+  background-color: transparent;
+}
+
+.navbar-custom a {
+  text-decoration: none;
+  color: white;
+  padding: 30px 15px 26px;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-custom a:hover {
+  background-color: #ac313d;
+}
+
+.navbar-custom button {
+  background-color: transparent;
+  border-color: transparent;
+  margin-top: 1px;
+  margin-right: 2px;
+}
+
+.navbar-custom button img {
+  max-width: 20px;
+  max-height: 20px;
+  width: auto;
+  height: auto;
+  display: block;
+}
+.navbar-custom button:hover {
+  cursor: pointer;
+}
+
+/* chatbot icon */
+#chatbot-icon {
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border: 2px solid #981f2b;
+  transition: background-color 0.3s, transform 0.2s;
+  z-index: 2;
+}
+
+.iframeContainer {
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+  z-index: 100;
+  border: none;
+}
+/* higher_studies_page image styling */
+
+#higher_studies-image {
+  max-width: 100%;
+  opacity: 0.5;
+}
+
+.higher_studies_container-custom {
+  text-align: center;
+}
+
+.higher_studies-custom {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0;
+  opacity: 0;
+  animation: slideUpFadeIn 1s ease forwards;
+}
+@keyframes slideUpFadeIn {
+  from {
+    top: 100%;
+    opacity: 0;
+  }
+  to {
+    top: 40%;
+    opacity: 1;
+  }
+}
+
+#heading1-custom {
+  font-family: "Bayon", sans-serif;
+  font-size: 100px;
+  margin: 0;
+  color: white;
+}
+
+.slides-custom {
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  position: relative;
+  background-color: #333;
+}
+
+.slides-custom img {
+  width: 100%;
+  height: auto;
+}
+
+/* dividers */
+
+.divider-custom {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border: 2px solid #981f2b;
+  border-radius: 10px;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  color: #000;
+  max-width: 80%;
+  margin: 20px auto;
+  line-height: 1.5;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.quote-custom {
+  padding: 10px;
+}
+
+.exams_container-custom {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 100px 30px;
+  padding: 100px 50px;
+}
+
+/* exam_card.html */
+
+/* the entire card */
+.exam_card-custom {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 450px;
+  height: 400px;
+  background-color: #ffffff;
+  border: 2px solid #981f2b;
+  border-radius: 19px;
+  transition: 0.5s;
+}
+
+.exam_card-custom:hover {
+  height: 670px;
+}
+
+/* short form */
+.exam_card-custom .exam_name_shorter-custom {
+  position: absolute;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  top: 20px;
+  width: 300px;
+  height: 250px;
+  color: #ac313d;
+  border-radius: 12px;
+  transition: 0.5s;
+}
+
+.exam_card-custom:hover .exam_name_shorter-custom {
+  top: -100px;
+  scale: 0.75;
+  border: 2px solid #981f2b;
+  background-color: #ffff;
+  color: #ac313d;
+  overflow: hidden;
+}
+
+.exam_card-custom .content-custom {
+  position: absolute;
+  top: 250px;
+  width: 100%;
+  padding: 0 30px;
+  text-align: center;
+  height: 90px;
+  overflow: hidden;
+  transition: 0.5s;
+}
+.exam_card-custom:hover .content-custom {
+  top: 130px;
+  height: 600px;
+}
+.exam_name-custom {
+  color: #ac313d;
+  font-family: poppins;
+  margin-top: 7%;
+  margin-bottom: 8%;
+}
+
+.exam_description-custom,
+.exam_syllabus-custom {
+  color: #95686c;
+  font-family: poppins;
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 5%;
+}
+
+.button-custom {
+  position: relative;
+  background-color: #ac313d;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 18px;
+  border-radius: 5px;
+  font-family: poppins;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+/* footer */
+.footer-custom {
+  background-color: #981f2b;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  font-family: poppins;
+}
+
+.footer-logo a {
+  text-decoration: none;
+  font-size: 24px;
+  font-family: bayon;
+  color: white;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: white;
+  margin: 0 20px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact p {
+  margin: 5px 0;
+}

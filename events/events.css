@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.header-custom {
+  background-color: #981f2b;
+  height: 85px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  margin: 0;
+}
+
+.logo-custom a {
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+  font-family: "Bayon", sans-serif;
+  /* padding: 20px; */
+}
+
+/* navigation bar styling */
+.navbar-custom {
+  background-color: transparent;
+}
+
+.navbar-custom a {
+  text-decoration: none;
+  color: white;
+  padding: 30px 15px 26px;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-custom a:hover {
+  background-color: #ac313d;
+}
+
+.navbar-custom button {
+  background-color: transparent;
+  border-color: transparent;
+  margin-top: 1px;
+  margin-right: 2px;
+}
+
+.navbar-custom button img {
+  max-width: 20px;
+  max-height: 20px;
+  width: auto;
+  height: auto;
+  display: block;
+}
+.navbar-custom button:hover {
+  cursor: pointer;
+}
+
+/* chatbot icon */
+#chatbot-icon {
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border: 2px solid #981f2b;
+  transition: background-color 0.3s, transform 0.2s;
+  z-index: 2;
+}

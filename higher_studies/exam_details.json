@@ -1,0 +1,94 @@
+{
+  "GRE": {
+    "name_of_the_exam": "Graduate Record Examinations",
+    "link": "https://www.ets.org/gre.html",
+    "description": "Graduate Record Examinations or GRE is conducted by the Educational Testing Service (ETS) for graduates seeking admission to various business schools abroad. After graduation, this entrance exam is the second-best option for you if you want to study abroad.",
+    "syllabus": "The GRE syllabus includes Analytical Writing, Verbal Reasoning, and Quantitative Reasoning."
+  },
+  "GMAT": {
+    "name_of_the_exam": "Graduate Management Aptitude Test",
+    "link": "https://www.mba.com/exams/gmat-exam",
+    "description": "The Graduate Management Aptitude Test is conducted by the Graduate Management Admission Council (GMAC) for students who wish to study MBA/PGDM abroad. To sit for the exam, you need to have a degree from a reputed university. If you want to pursue your career abroad, this entrance exam after graduation is the best option.",
+    "syllabus": "The GMAT syllabus includes Analytical Writing, Verbal Reasoning, Integrated Reasoning, and Quantitative Reasoning."
+  },
+  "TOEFL": {
+    "name_of_the_exam": "Test of English as a Foreign Language",
+    "link": "https://toefltest.in/",
+    "description": "The TOEFL is accepted by universities and institutions worldwide as evidence of English proficiency for academic purposes. It assesses the ability to understand and communicate effectively in English in academic settings. The test is administered by the Educational Testing Service (ETS) and can be taken at authorized test centers globally.",
+    "syllabus": "The TOEFL exam evaluates comprehension, communication, and writing abilities essential for academic success. Preparation involves practicing with official materials and engaging in English language activities to enhance skills in various areas."
+  },
+  "IELTS": {
+    "name_of_the_exam": "International English Language Testing System",
+    "link": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjn5Yaj8eaEAxWWF4MDHd2jA6AYABAAGgJzZg&ase=2&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcWknCH7tGzPBUoAv36ky9c_spTqWYNUsBsEoH1psT3yBi20A0v8JlAaAnMuEALw_wcB&ohost=www.google.com&cid=CAESV-D2VCUd7U4m2yJTfBIfzoP1cltDt9D_0e4kMZy_PCHJdlldbAuwVVpannlaR6i7sdXtpc25dGOzgy9rQDF5Z2tyzvDUZcQrBrd6blALjJyWnbMUqMOdsw&sig=AOD64_2y82GzWtfl8AWydqYI_pZh4h7cnQ&q&nis=4&adurl&ved=2ahUKEwiRh4Gj8eaEAxVM3TgGHcCMB2cQ0Qx6BAgKEAE",
+    "description": "It's a standardized test that measures English language proficiency for non-native English language speakers. The exam assesses listening, reading, writing, and speaking skills.",
+    "syllabus": "The syllabus includes various topics and tasks designed to evaluate language abilities across different contexts and situations."
+  },
+  "GRE Subject Test": {
+    "name_of_the_exam": "GRE Subject Tests",
+    "link": "https://www.ets.org/gre/score-users/about/subject-tests.html",
+    "description": "The GRE Subject Tests evaluate students' proficiency in specific academic fields. They gauge readiness for graduate-level study in these areas and align with undergraduate coursework. Test-takers should review content outlines provided by ETS for each subject.",
+
+    "syllabus": "The GRE Subject Tests evaluate knowledge in disciplines covering undergraduate-level content in each subject area. Syllabi for these tests, available on the ETS website, outline specific topics for study, such as cell biology, organic chemistry, literary analysis, calculus, mechanics, and cognitive psychology."
+  },
+  "CAT": {
+    "name_of_the_exam": " Common Admission Test",
+    "link": "https://iimcat.ac.in/",
+
+    "description": "Common Admission Test or CAT is conducted by the Indian Institutes of Management (IIMs) for students who want to study MBA or PGDM in India. You need to score a minimum of 50% marks in Graduation. This is the most important entrance exam after graduation in India if you want to pursue MBA from top b-schools.",
+    "syllabus": "The CAT syllabus includes Verbal Ability & Reading Comprehension, Data Interpretation & Logical Reasoning, and Quantitative Aptitude."
+  },
+  "MAT": {
+    "name_of_the_exam": "Management Aptitude Test",
+    "link": "https://mat.aima.in/",
+    "description": "Management Aptitude Test or MAT is conducted by the All-India Management Association (AIMA) for students who want to study MBA/ PGDM in India. You need to pass graduation to sit for MAT. It is the second-best entrance exam after graduation after CAT for you.",
+    "syllabus": "The MAT syllabus includes Language Comprehension, Data Analysis & Sufficiency, Mathematical Skills, Intelligence & Critical Reasoning, and Indian and Global Environment"
+  },
+  "CPT": {
+    "name_of_the_exam": "Common Proficiency Test",
+    "link": "https://www.icai.org/post.html?post_id=505",
+    "description": "The Common Proficiency Test or CPT is conducted by the Council of the Institute of Chartered Accountants of India (ICAI). If you want to pursue a career in Accountancy, this entrance exam after graduation will help you become a Chartered Accountant in India.",
+    "syllabus": "The CPT syllabus includes Fundamentals of Accounting, Mercantile Laws, General Economics, and Quantitative Aptitude."
+  },
+  "GATE": {
+    "name_of_the_exam": "Graduate Aptitude Test in Engineering",
+    "link": "https://gate2024.iisc.ac.in/",
+    "description": "Graduate Aptitude Test in Engineering (GATE) is conducted jointly by the Indian Institute of Science and the Indian Institute of Technology. After graduation, it is the entrance exam for the students who want to pursue MTech and ME.",
+    "syllabus": "The GATE syllabus includes General Aptitude, Engineering Mathematics, and the selected subject paper."
+  },
+  "IIT JAM": {
+    "name_of_the_exam": "Joint Admission Test for Masters",
+    "link": "https://jam.iitm.ac.in/",
+    "description": "The Joint Admission Test for Masters or IIT JAM is conducted by the Indian Institute of Technology and the Indian Institute of Science. After graduation, it is the entrance exam for admission to M.Sc. and M.Sc.-Ph.D. integrated program.",
+    "syllabus": "The IIT JAM syllabus includes Biotechnology, Biological Sciences, Chemistry, Geology, Mathematics, Mathematical Statistics, and Physics."
+  },
+  "CLAT": {
+    "name_of_the_exam": "Common-Law Admission Test",
+    "link": "https://consortiumofnlus.ac.in/clat-2024/",
+    "description": "The National Law Universities conduct the Common Law Admission Test or CLAT for students who want to pursue a Master of LAW (LLM). To sit in the exam, you need to have a bachelor’s degree in LAW.",
+    "syllabus": "The CLAT syllabus includes English Language, GK & Current Affairs, Logical Reasoning, Quantitative Techniques, and Legal Reasoning."
+  },
+  "LSAT": {
+    "name_of_the_exam": "Law School Admission Test",
+    "link": "https://www.lsac.org/lsat",
+    "description": "The law school admission test (LSAT) is a worldwide level law entrance exam. You can appear for this entrance exam after graduation to pursue law either in India or abroad.",
+    "syllabus": "The LSAT syllabus includes Analytical Reasoning, Logical Reasoning, and Reading Comprehension."
+  },
+  "PGIMER": {
+    "name_of_the_exam": "Postgraduate Institute of Medical Education & Research",
+    "link": "https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/GlobalPages/JSP/seerecone.jsp?id=ev5155&tableid=1",
+    "description": "Admission to various MD/MS courses conducted at the Institute is made twice a year. The admission to the above courses of the Institute is made on merit on all India basis, by holding an entrance exam after graduation by the Institute, after issuing a countrywide admission notice. The sessions commence from first January and first July each year The Institute follows a residency service-cum-training scheme.  ",
+    "syllabus": "The PGIMER syllabus includes English Language, Quantitative Aptitude, General Knowledge, Technical Subjects. "
+  },
+  "JIPMER PG": {
+    "name_of_the_exam": "JIPMER PG Medical Entrance Exam",
+    "link": "https://jipmer.edu.in/",
+    "description": "Jawaharlal Institute of Post Graduate Medical Education and Research exam is conducted for admission to MD / MS course. This medical entrance exam after graduation is conducted once in a year. ",
+    "syllabus": "The JIPMER PG syllabus includes English Comprehension and Language, Logical & Quantitative Reasoning, Physics, Chemistry, Biology. "
+  },
+  "CEED": {
+    "name_of_the_exam": "Common Entrance Exam for Design",
+    "link": "https://www.ceed.iitb.ac.in/2024/",
+    "description": "CEED exam is one of the top entrance exams after graduation conducted at the national level once a year in 24 cities across the nation. Candidates who have completed a degree/diploma programme of minimum three years (after 10+2 level), or appearing for the final examination of such a programme are eligible to attempt the exam.",
+    "syllabus": "Part A (online) includes sections on visualization, environmental awareness, logical reasoning, language, design thinking, and observation. Part B (offline) focuses on drawing, creativity, communication, and problem identification skills. "
+  }
+}

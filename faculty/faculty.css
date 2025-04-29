@@ -1,0 +1,385 @@
+body {
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.header-custom {
+  background-color: #981f2b;
+  height: 85px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  margin: 0;
+}
+
+.logo-custom a {
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+  font-family: "Bayon", sans-serif;
+  /* padding: 20px; */
+}
+
+/* navigation bar styling */
+.navbar-custom {
+  background-color: transparent;
+}
+
+.navbar-custom a {
+  text-decoration: none;
+  color: white;
+  padding: 30px 15px 26px;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-custom a:hover {
+  background-color: #ac313d;
+}
+
+.navbar-custom button {
+  background-color: transparent;
+  border-color: transparent;
+  margin-top: 1px;
+  margin-right: 2px;
+}
+
+.navbar-custom button img {
+  max-width: 20px;
+  max-height: 20px;
+  width: auto;
+  height: auto;
+  display: block;
+}
+.navbar-custom button:hover {
+  cursor: pointer;
+}
+
+/* chatbot icon */
+#chatbot-icon {
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border: 2px solid #981f2b;
+  transition: background-color 0.3s, transform 0.2s;
+  z-index: 2;
+}
+
+/* faculty_image styling */
+
+#school-image {
+  max-width: 100%;
+  opacity: 0.5;
+}
+
+.schools_page_container-custom {
+}
+
+.faculty_heading-custom {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0;
+  opacity: 0;
+  animation: slideUpFadeIn 1s ease forwards;
+}
+
+@keyframes slideUpFadeIn {
+  from {
+    top: 100%;
+    opacity: 0;
+  }
+  to {
+    top: 40%;
+    opacity: 1;
+  }
+}
+#heading1-custom {
+  font-family: "Bayon", sans-serif;
+  font-size: 100px;
+  margin: 0;
+  color: white;
+}
+
+.slides-custom {
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  position: relative;
+  background-color: #333;
+}
+
+.slides-custom img {
+  width: 100%;
+  height: auto;
+}
+
+/* dividers */
+
+.divider-custom {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 20px;
+  border: 2px solid #981f2b;
+  border-radius: 10px;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  color: #000;
+  max-width: 80%;
+  margin: 20px auto;
+  line-height: 1.5;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.quote-custom {
+  padding: 10px;
+}
+/* faculty_schools_page */
+.schools_page_container-custom {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.schools_page_container-custom h1 {
+  margin-top: 2%;
+  text-align: center;
+  font-family: poppins;
+  color: #981f2b;
+  text-shadow: 1px 1px 3px #95686c;
+}
+.schools_cards_container-custom {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 2%;
+  margin: 2%;
+  margin-top: 0;
+}
+
+/* faculty_schools_card */
+
+.schools_card-custom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25vh;
+  margin: 3%;
+  padding: 2%;
+  border: 2px solid #981f2b;
+  border-radius: 19px;
+  background-color: #f4f4f4;
+  transition: transform 0.5s ease, box-shadow 0.3s ease;
+}
+
+.school_name-custom {
+  text-align: center;
+  color: #981f2b;
+  font-family: poppins;
+  font-size: 30px;
+}
+
+.schools_card-custom:hover {
+  cursor: pointer;
+  transform: translateY(-10px);
+  box-shadow: 0px 0px 20px #95686c, 0px 0px 40px #f4f4f4;
+}
+
+/* faculty_departments_page */
+.departments_page_container-custom {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin-top: 2%;
+  text-align: center;
+  font-family: poppins;
+  color: #981f2b;
+}
+
+#name_of_the_school,
+#name_of_the_department {
+  display: inline-block;
+  margin: auto auto;
+  text-wrap: wrap;
+  text-align: center;
+  font-family: poppins;
+  color: #981f2b;
+  text-shadow: 1px 1px 3px #95686c;
+  border-bottom: 3px solid #981f2b;
+}
+
+.head_of_the_school-custom,
+.hod-custom {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.departments-custom {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 1%;
+  margin: 1%;
+  margin-top: 0;
+}
+/* faculty_department_cards */
+.departments_card-custom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 27vh;
+  margin: 3%;
+  padding: 2%;
+  border: 2px solid #981f2b;
+  border-radius: 19px;
+  background-color: #f4f4f4;
+  transition: transform 0.5s ease, box-shadow 0.3s ease;
+}
+#department_name-custom {
+  text-align: center;
+  color: #981f2b;
+  font-family: poppins;
+  font-size: 30px;
+}
+.departments_card-custom:hover {
+  /* cursor: pointer; */
+  transform: translateY(-10px);
+  box-shadow: 0px 0px 20px #95686c, 0px 0px 40px #f4f4f4;
+}
+
+/* faculty_details_page */
+.details_page_container-custom {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin-top: 2%;
+  text-align: center;
+  font-family: poppins;
+  color: #981f2b;
+}
+
+/* faculty_details_card */
+.faculty_details_card-custom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  width: 60vh;
+  margin: 3%;
+  padding: 3%;
+  border: 2px solid #981f2b;
+  border-radius: 19px;
+  background-color: #f4f4f4;
+  transition: transform 0.5s ease, box-shadow 0.3s ease;
+}
+
+.faculty_details_card-custom:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 0px 20px #95686c, 0px 0px 40px #f4f4f4;
+}
+
+.details-custom {
+  text-align: center;
+}
+
+#name_of_the_faculty-custom {
+  text-align: center;
+  color: #981f2b;
+  font-family: poppins;
+  font-size: 30px;
+}
+
+#name_of_the_faculty-custom:hover {
+  /* cursor: pointer; */
+  color: #ac313d;
+  font-size: 31px;
+}
+
+#school_name {
+  margin: 0;
+  font-size: 20px;
+  color: #95686c;
+}
+
+#email_id {
+  margin: 1%;
+  font-size: 18px;
+  color: #95686c;
+}
+
+/* faculty_details_page */
+.professor-custom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.associate-custom,
+.assistant-custom,
+.professor-custom {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+  padding: 2%;
+  margin: 2%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* footer */
+
+main {
+  flex: 1;
+}
+footer {
+  flex-shrink: 0;
+}
+.footer-custom {
+  background-color: #981f2b;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  font-family: poppins;
+}
+
+.footer-logo a {
+  text-decoration: none;
+  font-size: 24px;
+  font-family: bayon;
+  color: white;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: white;
+  margin: 0 20px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact p {
+  margin: 5px 0;
+}
+
+.iframeContainer {
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+  z-index: 100;
+  border: none;
+}

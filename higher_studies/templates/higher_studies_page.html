@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>G-ARKH Higher Studies</title>
+
+    <!-- js file -->
+    <script defer src="higher_studies.js"></script>
+
+    <!-- css files -->
+    <link rel="stylesheet" href="higher_studies.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Bayon&display=swap");
+    </style>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap");
+    </style>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+    </style>
+
+    <!-- materialize -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+      integrity="sha512-UJfAaOlIRtdR+0P6C3KUoTDAxVTuy3lnSXLyLKlHYJlcSU8Juge/mjeaxDNMlw9LgeIotgz5FP8eUQPhX1q10A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <!-- chatbot files -->
+    <!-- <iframe src="/chatbot"></iframe> -->
+    <!-- <link rel="stylesheet" href="/chatbot.css" /> -->
+    <link rel="preload" as="document" href="/chatbot" />
+    <script defer src="chatbot_toggler.js"></script>
+    <script defer src="/chatbot.js"></script>
+  </head>
+
+  <!-- body -->
+  <body>
+    <!-- header -->
+    <!-- chatbot frame -->
+    <div class="iframeContainer">
+      <iframe src="/chatbot" frameborder="0"></iframe>
+    </div>
+    <!-- <img src="../images/chatbot.png" alt="Chatbot Icon" id="chatbot-icon" /> -->
+    <div class="header-custom">
+      <div class="logo-custom"><a href="../index.html">G-ARKH</a></div>
+
+      <div class="navbar-custom">
+        <a href="../index.html">Home</a>
+        <a href="../about">About</a>
+        <a href="../resources">Resources</a>
+        <a href="../placements">Placements</a>
+        <a href="/higher_studies">Higher Studies</a>
+        <a href="../faculty">Faculty</a>
+        <!-- <a href="#events">Events</a>
+        <button id="search-custom">
+          <img src="../images/Group 2.png" />
+        </button> -->
+      </div>
+    </div>
+    <!-- content -->
+    <!-- hero section -->
+    <div class="higher_studies_container-custom">
+      <div class="slides-custom">
+        <img src="../images/higher_studies.jpg" id="higher_studies-image" />
+      </div>
+      <div class="higher_studies-custom">
+        <p id="heading1-custom">HIGHER STUDIES</p>
+      </div>
+      <!-- divider -->
+      <div class="divider-custom">
+        <p class="quote-custom">
+          Education is one thing no one can take away from you - Elin Nordegren
+        </p>
+      </div>
+
+      <!-- exams cards -->
+      <div class="exams_container-custom">{%EXAMS_CARDS%}</div>
+    </div>
+    <!-- footer section -->
+
+    <footer class="footer-custom">
+      <div class="footer-logo">
+        <a href="../index.html">G-ARKH</a>
+      </div>
+      <div class="footer-links">
+        <a href="../index.html">Home</a>
+        <a href="../about">About</a>
+        <a href="../resources">Resources</a>
+        <a href="/placements">Placements</a>
+        <a href="../faculty">Faculty</a>
+        <a href="/higher_studies">Higher Studies</a>
+        <!-- <a href="../events">Events</a> -->
+      </div>
+      <div class="footer-contact">
+        <p>Contact Us:</p>
+        <p>Email: info@g-arkh.com</p>
+        <p>Phone: +1 (123) 456-7890</p>
+      </div>
+    </footer>
+  </body>
+</html>
